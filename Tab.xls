@@ -1,0 +1,1824 @@
+Liste der öffentlichen Berliner Schulen mit statistischen Angaben
+<table cellspacing="0" cellpadding="3" rules="all" id="myDatagrid" style="border-color:#C6C3C6;border-width:1px;border-style:solid;font-size:12pt;border-collapse:collapse;">
+	<tr style="background-color:#F39300;">
+		<td>Schuljahr</td><td>BSN</td><td>NAME</td><td>Schüler (m/w/d)</td><td>Schüler (w)</td><td>Schüler (m)</td><td>Lehrkräfte (m,w,d)</td><td>Lehrkräfte (w)</td><td>Lehrkräfte (m)</td>
+	</tr><tr>
+		<td>2024/25</td><td>01B01</td><td>OSZ Banken, Immobilien und Versicherungen</td><td>1603</td><td>642</td><td>961</td><td>76</td><td>41</td><td>35</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01B02</td><td>Staatliche Technikerschule Berlin</td><td>480</td><td>56</td><td>424</td><td>57</td><td>25</td><td>32</td>
+	</tr><tr>
+		<td>2024/25</td><td>01B03</td><td>OSZ Kommunikations-, Informations- und Medientechnik</td><td>1226</td><td>310</td><td>916</td><td>82</td><td>40</td><td>42</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01B04</td><td>OSZ Gesundheit I</td><td>2902</td><td>2564</td><td>338</td><td>94</td><td>65</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G01</td><td>Grundschule am Arkonaplatz</td><td>426</td><td>191</td><td>235</td><td>34</td><td>28</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G02</td><td>Papageno-Grundschule</td><td>616</td><td>307</td><td>309</td><td>51</td><td>33</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G04</td><td>Kastanienbaum-Grundschule</td><td>415</td><td>200</td><td>215</td><td>26</td><td>22</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G05</td><td>Grundschule Neues Tor</td><td>389</td><td>206</td><td>183</td><td>35</td><td>25</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G07</td><td>GutsMuths-Grundschule</td><td>410</td><td>201</td><td>209</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G08</td><td>Grundschule am Brandenburger Tor</td><td>514</td><td>257</td><td>257</td><td>39</td><td>31</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G10</td><td>City-Grundschule</td><td>605</td><td>305</td><td>300</td><td>41</td><td>32</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G11</td><td>Kurt-Tucholsky-Grundschule</td><td>684</td><td>337</td><td>347</td><td>59</td><td>44</td><td>15</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G15</td><td>Anne-Frank-Grundschule</td><td>370</td><td>169</td><td>201</td><td>29</td><td>21</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G16</td><td>Moabiter Grundschule</td><td>456</td><td>212</td><td>244</td><td>44</td><td>34</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G18</td><td>Carl-Bolle-Grundschule</td><td>336</td><td>173</td><td>163</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G19</td><td>Hansa-Grundschule</td><td>420</td><td>204</td><td>216</td><td>31</td><td>27</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G24</td><td>Gottfried-Röhl-Grundschule</td><td>471</td><td>226</td><td>245</td><td>43</td><td>35</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G25</td><td>Rudolf-Wissell-Grundschule</td><td>419</td><td>168</td><td>251</td><td>42</td><td>30</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G27</td><td>Gesundbrunnen-Grundschule</td><td>514</td><td>258</td><td>256</td><td>49</td><td>36</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G28</td><td>Brüder-Grimm-Grundschule</td><td>580</td><td>294</td><td>286</td><td>52</td><td>40</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G29</td><td>Wilhelm-Hauff-Grundschule</td><td>420</td><td>208</td><td>212</td><td>47</td><td>37</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G31</td><td>Wedding-Grundschule</td><td>513</td><td>250</td><td>263</td><td>53</td><td>44</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G32</td><td>Carl-Kraemer-Grundschule</td><td>460</td><td>226</td><td>234</td><td>38</td><td>26</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G35</td><td>Humboldthain-Grundschule</td><td>403</td><td>208</td><td>195</td><td>39</td><td>31</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G36</td><td>Andersen-Grundschule</td><td>367</td><td>171</td><td>196</td><td>32</td><td>22</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G37</td><td>Heinrich-Seidel-Grundschule</td><td>506</td><td>247</td><td>259</td><td>46</td><td>38</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G38</td><td>Gustav-Falke-Grundschule</td><td>491</td><td>227</td><td>264</td><td>40</td><td>33</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G39</td><td>Vineta-Grundschule</td><td>375</td><td>168</td><td>207</td><td>36</td><td>26</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G40</td><td>Möwensee-Grundschule</td><td>578</td><td>299</td><td>279</td><td>52</td><td>35</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G41</td><td>Erika-Mann-Grundschule</td><td>559</td><td>284</td><td>275</td><td>61</td><td>45</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G42</td><td>Anna-Lindh-Schule (Grundschule)</td><td>453</td><td>210</td><td>243</td><td>52</td><td>40</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G43</td><td>Albert-Gutzmann-Schule (Grundschule)</td><td>447</td><td>208</td><td>239</td><td>39</td><td>26</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G44</td><td>Allegro-Grundschule</td><td>442</td><td>224</td><td>218</td><td>49</td><td>38</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G45</td><td>Leo-Lionni-Grundschule</td><td>549</td><td>264</td><td>285</td><td>51</td><td>37</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G46</td><td>Grundschule am Koppenplatz</td><td>748</td><td>367</td><td>381</td><td>56</td><td>41</td><td>15</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G47</td><td>Miriam-Makeba-Grundschule</td><td>461</td><td>235</td><td>226</td><td>47</td><td>34</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>01G48</td><td>Grundschule am Nordhafen</td><td>490</td><td>245</td><td>245</td><td>35</td><td>27</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01G49</td><td>49. Schule (Grundschule)</td><td>176</td><td>87</td><td>89</td><td>17</td><td>17</td><td>0</td>
+	</tr><tr>
+		<td>2024/25</td><td>01K01</td><td>Willy-Brandt-Schule</td><td>677</td><td>299</td><td>378</td><td>75</td><td>41</td><td>34</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01K02</td><td>Ernst-Schering-Schule</td><td>579</td><td>289</td><td>290</td><td>59</td><td>43</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>01K03</td><td>Ernst-Reuter-Schule</td><td>926</td><td>459</td><td>467</td><td>107</td><td>61</td><td>46</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01K04</td><td>Heinrich-von-Stephan-Gemeinschaftsschule</td><td>837</td><td>385</td><td>452</td><td>80</td><td>49</td><td>31</td>
+	</tr><tr>
+		<td>2024/25</td><td>01K06</td><td>Herbert-Hoover-Schule (Integrierte Sekundarschule)</td><td>462</td><td>235</td><td>227</td><td>49</td><td>36</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01K07</td><td>Hemingway-Schule</td><td>464</td><td>205</td><td>259</td><td>54</td><td>33</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>01K08</td><td>Schule am Schillerpark (Integrierte Sekundarschule)</td><td>564</td><td>251</td><td>313</td><td>68</td><td>48</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01K09</td><td>Hedwig-Dohm-Schule (Integrierte Sekundarschule)</td><td>541</td><td>232</td><td>309</td><td>61</td><td>30</td><td>31</td>
+	</tr><tr>
+		<td>2024/25</td><td>01K10</td><td>Theodor-Heuss-Gemeinschaftsschule</td><td>990</td><td>512</td><td>478</td><td>98</td><td>65</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P01</td><td>Evangelische Schule Berlin Mitte (Gemeinschaftsschule)</td><td>297</td><td>152</td><td>145</td><td>26</td><td>24</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P03</td><td>Jüdisches Gymnasium Moses Mendelssohn</td><td>536</td><td>284</td><td>252</td><td>58</td><td>29</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P04</td><td>Freie Waldorfschule Berlin Mitte</td><td>429</td><td>221</td><td>208</td><td>43</td><td>28</td><td>15</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P05</td><td>Katholische Schule Sankt Paulus (Grundschule)</td><td>368</td><td>194</td><td>174</td><td>28</td><td>24</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P06</td><td>Canisius-Kolleg </td><td>896</td><td>449</td><td>447</td><td>83</td><td>40</td><td>43</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P07</td><td>Lazarus Schulen der Hoffnungstaler Stiftung Lobetal</td><td>197</td><td>133</td><td>64</td><td>23</td><td>15</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P13</td><td>Freie Schule am Mauerpark (Grundschule)</td><td>78</td><td>38</td><td>40</td><td>7</td><td>5</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P14</td><td>BEST-Sabel Berufsakademie</td><td>565</td><td>404</td><td>161</td><td>52</td><td>35</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P16</td><td>Berlin Metropolitan School (Integrierte Sekundarschule)</td><td>992</td><td>513</td><td>479</td><td>124</td><td>78</td><td>46</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P18</td><td>Bilinguale Schule Phorms Berlin Mitte</td><td>768</td><td>410</td><td>358</td><td>84</td><td>57</td><td>27</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P22</td><td>Berlin Cosmopolitan School</td><td>602</td><td>316</td><td>286</td><td>62</td><td>33</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P23</td><td>Evangelische Schule Berlin Zentrum (Gemeinschaftsschule)</td><td>728</td><td>362</td><td>366</td><td>90</td><td>54</td><td>36</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P25</td><td>Internationale Lomonossow-Schule Berlin (Gemeinschaftsschule)</td><td>240</td><td>117</td><td>123</td><td>32</td><td>27</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P36</td><td>BTB Schulzentrum gGmbH</td><td>150</td><td>76</td><td>74</td><td>23</td><td>20</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P39</td><td>GPB College gGmbH</td><td>310</td><td>165</td><td>145</td><td>36</td><td>13</td><td>23</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P40</td><td>Berufsfachschule  Paulo Freire im Zentrum ÜBERLEBEN</td><td>85</td><td>49</td><td>36</td><td>13</td><td>8</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P42</td><td>WWV Bildungsakademie gGmbH</td><td>169</td><td>81</td><td>88</td><td>11</td><td>7</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P46</td><td>DDA Destiny Diversity Academy GmbH</td><td>38</td><td>33</td><td>5</td><td>11</td><td>6</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P47</td><td>Ecole Voltaire (Grundschule)</td><td>331</td><td>159</td><td>172</td><td>32</td><td>23</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P48</td><td>meco Akademie GmbH</td><td>727</td><td>577</td><td>150</td><td>29</td><td>21</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P49</td><td>Quinoa-Schule Freie Sekundarschule Berlin Wedding</td><td>181</td><td>82</td><td>99</td><td>23</td><td>14</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P50</td><td>Kristall Grundschule - Inklusive Grundschule in freier Trägerschaft</td><td>106</td><td>50</td><td>56</td><td>12</td><td>8</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P51</td><td>mediencollege Berlin gGmbH</td><td>291</td><td>212</td><td>79</td><td>33</td><td>20</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P52</td><td>Schulen der ASIG Stiftung e.V.</td><td>73</td><td>26</td><td>47</td><td>14</td><td>6</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01P54</td><td>CeFi - Fachschule für Sozialpädagogik</td><td>51</td><td>46</td><td>5</td><td>4</td><td>3</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>01P55</td><td>FRÖBEL Akademie gGmbH - Fachschule für Sozialpädagogik</td><td>76</td><td>60</td><td>16</td><td>5</td><td>3</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01S01</td><td>Schule am Zille-Park</td><td>244</td><td>60</td><td>184</td><td>50</td><td>29</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>01S05</td><td>Schule in der Charité</td><td>234</td><td>106</td><td>128</td><td>47</td><td>40</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01S06</td><td>Albert-Gutzmann-Schule</td><td>157</td><td>53</td><td>104</td><td>21</td><td>15</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>01S07</td><td>Charlotte-Pfeffer-Schule</td><td>197</td><td>65</td><td>132</td><td>46</td><td>39</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01Y02</td><td>John-Lennon-Gymnasium</td><td>761</td><td>402</td><td>359</td><td>66</td><td>36</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>01Y04</td><td>Musikgymnasium Carl Philipp Emanuel Bach</td><td>164</td><td>90</td><td>74</td><td>19</td><td>10</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01Y07</td><td>Französisches Gymnasium</td><td>812</td><td>393</td><td>419</td><td>67</td><td>47</td><td>20</td>
+	</tr><tr>
+		<td>2024/25</td><td>01Y08</td><td>Lessing-Gymnasium</td><td>775</td><td>369</td><td>406</td><td>74</td><td>48</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01Y09</td><td>Diesterweg-Gymnasium</td><td>660</td><td>357</td><td>303</td><td>56</td><td>32</td><td>24</td>
+	</tr><tr>
+		<td>2024/25</td><td>01Y11</td><td>Max-Planck-Gymnasium</td><td>880</td><td>462</td><td>418</td><td>76</td><td>47</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>01Y12</td><td>Gymnasium Tiergarten</td><td>1059</td><td>582</td><td>477</td><td>89</td><td>60</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>01Y13</td><td>13. Schule (Gymnasium)</td><td>105</td><td>46</td><td>59</td><td>11</td><td>5</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02B01</td><td>August-Sander-Schule</td><td>835</td><td>378</td><td>457</td><td>87</td><td>52</td><td>35</td>
+	</tr><tr>
+		<td>2024/25</td><td>02B02</td><td>Hans-Böckler-Schule (OSZ Konstruktionsbautechnik)</td><td>931</td><td>81</td><td>850</td><td>62</td><td>27</td><td>35</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02B03</td><td>Modeschule Berlin (OSZ Bekleidung und Mode)</td><td>651</td><td>423</td><td>228</td><td>71</td><td>57</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>02B04</td><td>OSZ Handel 1</td><td>3482</td><td>1426</td><td>2056</td><td>147</td><td>103</td><td>44</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02B05</td><td>Jane-Addams-Schule (OSZ Sozialwesen)</td><td>1709</td><td>1248</td><td>461</td><td>123</td><td>74</td><td>49</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G01</td><td>Spartacus-Grundschule</td><td>486</td><td>242</td><td>244</td><td>36</td><td>26</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G02</td><td>Hausburg-Grundschule</td><td>552</td><td>268</td><td>284</td><td>49</td><td>36</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G03</td><td>Justus-von-Liebig-Grundschule</td><td>546</td><td>253</td><td>293</td><td>36</td><td>28</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G04</td><td>Pettenkofer-Grundschule</td><td>657</td><td>347</td><td>310</td><td>45</td><td>39</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G07</td><td>Ludwig-Hoffmann-Grundschule</td><td>454</td><td>206</td><td>248</td><td>32</td><td>25</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G08</td><td>Grundschule am Traveplatz</td><td>405</td><td>209</td><td>196</td><td>32</td><td>28</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G09</td><td>Zille-Grundschule</td><td>568</td><td>252</td><td>316</td><td>34</td><td>31</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G10</td><td>Modersohn-Grundschule</td><td>444</td><td>222</td><td>222</td><td>30</td><td>21</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G11</td><td>Thalia-Grundschule</td><td>438</td><td>213</td><td>225</td><td>27</td><td>24</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G12</td><td>Kurt-Schumacher-Grundschule</td><td>283</td><td>148</td><td>135</td><td>34</td><td>22</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G13</td><td>Charlotte-Salomon-Grundschule</td><td>422</td><td>209</td><td>213</td><td>47</td><td>45</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G14</td><td>Galilei-Grundschule</td><td>500</td><td>251</td><td>249</td><td>45</td><td>32</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G18</td><td>Nürtingen-Grundschule</td><td>568</td><td>291</td><td>277</td><td>53</td><td>46</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G19</td><td>Fanny-Hensel-Grundschule</td><td>286</td><td>129</td><td>157</td><td>26</td><td>23</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G20</td><td>Bürgermeister-Herz-Grundschule</td><td>448</td><td>214</td><td>234</td><td>35</td><td>31</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G21</td><td>Reinhardswald-Grundschule</td><td>621</td><td>280</td><td>341</td><td>44</td><td>37</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G22</td><td>Jens-Nydahl-Grundschule</td><td>303</td><td>159</td><td>144</td><td>34</td><td>30</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G23</td><td>Fichtelgebirge-Grundschule</td><td>414</td><td>201</td><td>213</td><td>32</td><td>25</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G24</td><td>Otto-Wels-Grundschule</td><td>519</td><td>237</td><td>282</td><td>50</td><td>37</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G26</td><td>Lemgo-Grundschule</td><td>436</td><td>201</td><td>235</td><td>45</td><td>31</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G27</td><td>Hunsrück-Grundschule</td><td>529</td><td>265</td><td>264</td><td>46</td><td>35</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G29</td><td>Heinrich-Zille-Grundschule</td><td>428</td><td>216</td><td>212</td><td>53</td><td>46</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G31</td><td>Adolf-Glaßbrenner-Grundschule</td><td>415</td><td>199</td><td>216</td><td>34</td><td>26</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G32</td><td>Clara-Grunwald-Grundschule</td><td>312</td><td>162</td><td>150</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G33</td><td>Aziz-Nesin-Grundschule</td><td>302</td><td>146</td><td>156</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G34</td><td>Jane-Goodall-Grundschule</td><td>381</td><td>176</td><td>205</td><td>28</td><td>25</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G35</td><td>Rosa-Parks-Grundschule</td><td>685</td><td>327</td><td>358</td><td>49</td><td>34</td><td>15</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02G36</td><td>Blumen-Grundschule</td><td>650</td><td>296</td><td>354</td><td>56</td><td>43</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>02G37</td><td>37. Schule (Grundschule)</td><td>364</td><td>174</td><td>190</td><td>30</td><td>20</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02K01</td><td>Ellen-Key-Schule</td><td>811</td><td>393</td><td>418</td><td>79</td><td>53</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>02K02</td><td>Carl-von-Ossietzky-Gemeinschaftsschule</td><td>1170</td><td>603</td><td>567</td><td>112</td><td>71</td><td>41</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02K03</td><td>Hector-Peterson-Schule</td><td>549</td><td>243</td><td>306</td><td>60</td><td>28</td><td>32</td>
+	</tr><tr>
+		<td>2024/25</td><td>02K04</td><td>Bergmannkiez-Gemeinschaftsschule</td><td>894</td><td>465</td><td>429</td><td>89</td><td>56</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02K05</td><td>Schule am Königstor (Integrierte Sekundarschule)</td><td>320</td><td>132</td><td>188</td><td>56</td><td>30</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>02K06</td><td>Emanuel-Lasker-Schule (Gemeinschaftsschule)</td><td>996</td><td>457</td><td>539</td><td>88</td><td>49</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02K07</td><td>Georg-Weerth-Schule</td><td>468</td><td>178</td><td>290</td><td>49</td><td>27</td><td>22</td>
+	</tr><tr>
+		<td>2024/25</td><td>02K08</td><td>Refik-Veseli-Schule (Integrierte Sekundarschule)</td><td>536</td><td>238</td><td>298</td><td>75</td><td>39</td><td>36</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02K09</td><td>Albrecht-von-Graefe-Schule (Integrierte Sekundarschule)</td><td>482</td><td>238</td><td>244</td><td>56</td><td>30</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>02K10</td><td>Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule)</td><td>417</td><td>195</td><td>222</td><td>39</td><td>27</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P03</td><td>Islamische Grundschule</td><td>158</td><td>83</td><td>75</td><td>14</td><td>12</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P04</td><td>Freie Waldorfschule Kreuzberg</td><td>715</td><td>365</td><td>350</td><td>73</td><td>54</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P05</td><td>Sozialpädagogisches Institut Berlin „Walter May“ - Stiftung SPI</td><td>638</td><td>466</td><td>172</td><td>60</td><td>34</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P07</td><td>Campus Berufsbildung e.V.</td><td>326</td><td>132</td><td>194</td><td>29</td><td>15</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P09</td><td>Freie Schule Kreuzberg (Grundschule)</td><td>46</td><td>26</td><td>20</td><td>5</td><td>3</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P11</td><td>Berlin Bilingual School (Grundschule)</td><td>277</td><td>144</td><td>133</td><td>26</td><td>19</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P12</td><td>KreativitätsGrundschule Berlin Friedrichshain</td><td>343</td><td>186</td><td>157</td><td>40</td><td>29</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P13</td><td>Netzwerk-Schule (Gemeinschaftsschule)</td><td>104</td><td>48</td><td>56</td><td>9</td><td>6</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P19</td><td>FORUM Berufsbildung e.V.</td><td>448</td><td>323</td><td>125</td><td>41</td><td>25</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P22</td><td>Pro Inklusio - Fachschule für Sozialpädagogik</td><td>544</td><td>410</td><td>134</td><td>27</td><td>23</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P23</td><td>Concept Berufliche Schulen gGmbH Berlin</td><td>174</td><td>117</td><td>57</td><td>25</td><td>20</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P25</td><td>Evangelische Schule Berlin Friedrichshain (Grundschule)</td><td>144</td><td>79</td><td>65</td><td>15</td><td>11</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P29</td><td>Kenntnisreich gGmbH</td><td>29</td><td>20</td><td>9</td><td>3</td><td>3</td><td>0</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P30</td><td>Concept - Fachschule für Sozialpädagogik</td><td>124</td><td>92</td><td>32</td><td>11</td><td>8</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02P31</td><td>procon College</td><td>13</td><td>11</td><td>2</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2024/25</td><td>02P33</td><td>Freie Schule Windrose (Grundschule)</td><td>67</td><td>27</td><td>40</td><td>5</td><td>4</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02S01</td><td>Temple-Grandin-Schule</td><td>223</td><td>89</td><td>134</td><td>39</td><td>34</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>02S02</td><td>Gustav-Meyer-Schule</td><td>156</td><td>55</td><td>101</td><td>40</td><td>33</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02S03</td><td>Margarethe-von-Witzleben-Schule</td><td>264</td><td>95</td><td>169</td><td>45</td><td>36</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>02S06</td><td>Liebmann-Schule</td><td>132</td><td>32</td><td>100</td><td>23</td><td>19</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02Y01</td><td>Andreas-Gymnasium</td><td>804</td><td>350</td><td>454</td><td>64</td><td>34</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>02Y03</td><td>Heinrich-Hertz-Gymnasium</td><td>680</td><td>193</td><td>487</td><td>51</td><td>27</td><td>24</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02Y04</td><td>Georg-Friedrich-Händel-Gymnasium</td><td>548</td><td>337</td><td>211</td><td>46</td><td>20</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>02Y05</td><td>Dathe-Gymnasium</td><td>907</td><td>480</td><td>427</td><td>71</td><td>47</td><td>24</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02Y06</td><td>Leibniz-Gymnasium</td><td>827</td><td>436</td><td>391</td><td>69</td><td>38</td><td>31</td>
+	</tr><tr>
+		<td>2024/25</td><td>02Y07</td><td>Robert-Koch-Gymnasium</td><td>653</td><td>344</td><td>309</td><td>54</td><td>33</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>02Y08</td><td>Hermann-Hesse-Gymnasium</td><td>593</td><td>302</td><td>291</td><td>57</td><td>29</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>03B02</td><td>Berufliche Schule für Sozialwesen Pankow</td><td>701</td><td>487</td><td>214</td><td>60</td><td>47</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03B04</td><td>Brillat-Savarin-Schule (OSZ Gastgewerbe)</td><td>4136</td><td>1821</td><td>2315</td><td>152</td><td>105</td><td>47</td>
+	</tr><tr>
+		<td>2024/25</td><td>03B06</td><td>Konrad-Zuse-Schule</td><td>443</td><td>170</td><td>273</td><td>43</td><td>20</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03B07</td><td>Elinor-Ostrom-Schule (OSZ Bürowirtschaft und Dienstleistungen)</td><td>1068</td><td>436</td><td>632</td><td>89</td><td>49</td><td>40</td>
+	</tr><tr>
+		<td>2024/25</td><td>03B08</td><td>Staatliche Ballett- und Artistikschule Berlin</td><td>235</td><td>178</td><td>57</td><td>68</td><td>45</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03B10</td><td>Max-Bill-Schule (OSZ Planen, Bauen, Gestalten)</td><td>2907</td><td>798</td><td>2109</td><td>154</td><td>76</td><td>78</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G01</td><td>Schule am Hamburger Platz (Grundschule)</td><td>490</td><td>235</td><td>255</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G02</td><td>Heinrich-Roller-Grundschule</td><td>428</td><td>200</td><td>228</td><td>28</td><td>24</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G03</td><td>Grundschule am Kollwitzplatz</td><td>427</td><td>222</td><td>205</td><td>31</td><td>25</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G04</td><td>Grundschule an der Marie</td><td>493</td><td>260</td><td>233</td><td>34</td><td>31</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G05</td><td>Homer-Grundschule</td><td>317</td><td>160</td><td>157</td><td>22</td><td>21</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G06</td><td>Bötzow-Grundschule</td><td>402</td><td>208</td><td>194</td><td>31</td><td>26</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G08</td><td>Grundschule am Planetarium</td><td>363</td><td>156</td><td>207</td><td>49</td><td>40</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G09</td><td>Thomas-Mann-Grundschule</td><td>499</td><td>249</td><td>250</td><td>27</td><td>21</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G10</td><td>Grundschule am Hohen Feld</td><td>595</td><td>267</td><td>328</td><td>40</td><td>34</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G11</td><td>Schule am Falkplatz (Grundschule)</td><td>728</td><td>369</td><td>359</td><td>46</td><td>34</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G12</td><td>Paul-Lincke-Grundschule</td><td>457</td><td>220</td><td>237</td><td>33</td><td>23</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G13</td><td>Grundschule in Rosenthal</td><td>567</td><td>282</td><td>285</td><td>39</td><td>33</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G14</td><td>Bornholmer Grundschule</td><td>589</td><td>298</td><td>291</td><td>39</td><td>35</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G15</td><td>Schule am Senefelderplatz</td><td>470</td><td>217</td><td>253</td><td>37</td><td>32</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G16</td><td>Grundschule am Teutoburger Platz</td><td>498</td><td>231</td><td>267</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G17</td><td>Grundschule am Weißen See</td><td>432</td><td>216</td><td>216</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G18</td><td>Picasso-Grundschule</td><td>575</td><td>289</td><td>286</td><td>44</td><td>36</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G20</td><td>Grundschule im Moselviertel</td><td>408</td><td>192</td><td>216</td><td>31</td><td>27</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G21</td><td>Grundschule unter den Bäumen</td><td>455</td><td>220</td><td>235</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G22</td><td>Grundschule am Wasserturm</td><td>580</td><td>285</td><td>295</td><td>40</td><td>33</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G23</td><td>Grundschule Alt-Karow</td><td>496</td><td>240</td><td>256</td><td>31</td><td>28</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G24</td><td>Grundschule im Panketal</td><td>600</td><td>302</td><td>298</td><td>41</td><td>34</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G25</td><td>Carl-Humann-Grundschule</td><td>493</td><td>245</td><td>248</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G26</td><td>Arnold-Zweig-Grundschule</td><td>599</td><td>275</td><td>324</td><td>40</td><td>36</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G27</td><td>Elizabeth-Shaw-Grundschule</td><td>470</td><td>240</td><td>230</td><td>32</td><td>29</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G28</td><td>Hasengrund-Schule (Grundschule)</td><td>496</td><td>236</td><td>260</td><td>33</td><td>27</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G29</td><td>Grundschule Am Sandhaus</td><td>342</td><td>177</td><td>165</td><td>27</td><td>21</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G32</td><td>Grundschule an den Buchen</td><td>391</td><td>181</td><td>210</td><td>26</td><td>23</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G33</td><td>Jeanne-Barez-Schule (Grundschule)</td><td>830</td><td>412</td><td>418</td><td>49</td><td>40</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G34</td><td>Mendel-Grundschule</td><td>605</td><td>285</td><td>320</td><td>43</td><td>35</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G35</td><td>Platanengrundschule</td><td>137</td><td>75</td><td>62</td><td>8</td><td>8</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G36</td><td>Elisabeth-Christinen-Grundschule</td><td>492</td><td>234</td><td>258</td><td>33</td><td>26</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G37</td><td>Klecks-Grundschule</td><td>555</td><td>288</td><td>267</td><td>37</td><td>31</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G38</td><td>Grundschule im Blumenviertel</td><td>372</td><td>178</td><td>194</td><td>41</td><td>35</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G39</td><td>Grundschule Wolkenstein</td><td>459</td><td>227</td><td>232</td><td>33</td><td>29</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G40</td><td>Schule am Birkenhof</td><td>453</td><td>237</td><td>216</td><td>33</td><td>29</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G41</td><td>Trelleborg-Schule (Grundschule)</td><td>643</td><td>353</td><td>290</td><td>42</td><td>36</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G43</td><td>Grundschule Wilhelmsruh</td><td>568</td><td>280</td><td>288</td><td>39</td><td>28</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G44</td><td>Georg-Zacharias-Grundschule</td><td>382</td><td>200</td><td>182</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G45</td><td>Grundschule im Hofgarten</td><td>410</td><td>187</td><td>223</td><td>32</td><td>28</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G46</td><td>Grundschule im Eliashof</td><td>338</td><td>181</td><td>157</td><td>23</td><td>16</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G47</td><td>47. Schule (Grundschule)</td><td>335</td><td>150</td><td>185</td><td>26</td><td>21</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G48</td><td>Maria-Leo-Grundschule</td><td>385</td><td>190</td><td>195</td><td>29</td><td>29</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G49</td><td>49. Schule (Grundschule)</td><td>250</td><td>116</td><td>134</td><td>18</td><td>15</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03G50</td><td>50. Schule (Grundschule)</td><td>254</td><td>117</td><td>137</td><td>20</td><td>18</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03G51</td><td>51. Schule (Grundschule)</td><td>32</td><td>13</td><td>19</td><td>1</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K01</td><td>Kurt-Schwitters-Schule</td><td>987</td><td>526</td><td>461</td><td>94</td><td>59</td><td>35</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03K02</td><td>Kurt-Tucholsky-Schule (Integrierte Sekundarschule)</td><td>991</td><td>568</td><td>423</td><td>84</td><td>46</td><td>38</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K03</td><td>Konrad-Duden-Schule (Integrierte Sekundarschule)</td><td>647</td><td>259</td><td>388</td><td>64</td><td>43</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03K04</td><td>Gustave-Eiffel-Schule</td><td>627</td><td>271</td><td>356</td><td>65</td><td>36</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K05</td><td>Heinz-Brandt-Schule</td><td>487</td><td>227</td><td>260</td><td>51</td><td>35</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03K06</td><td>Reinhold-Burger-Schule</td><td>474</td><td>200</td><td>274</td><td>47</td><td>32</td><td>15</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K07</td><td>Tesla-Schule (Gemeinschaftsschule)</td><td>832</td><td>335</td><td>497</td><td>70</td><td>51</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03K08</td><td>Hagenbeck-Schule</td><td>459</td><td>218</td><td>241</td><td>44</td><td>24</td><td>20</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K09</td><td>Janusz-Korczak-Schule (Integrierte Sekundarschule)</td><td>389</td><td>153</td><td>236</td><td>38</td><td>20</td><td>18</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03K10</td><td>Hufeland-Schule (Integrierte Sekundarschule)</td><td>681</td><td>289</td><td>392</td><td>61</td><td>33</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>03K11</td><td>Wilhelm-von-Humboldt-Gemeinschaftsschule</td><td>1007</td><td>515</td><td>492</td><td>96</td><td>77</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P03</td><td>Schulen Christburg Campus Prenzlauer Berg</td><td>598</td><td>319</td><td>279</td><td>46</td><td>32</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P08</td><td>Katholisches Schulzentrum Edith Stein</td><td>145</td><td>93</td><td>52</td><td>20</td><td>12</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P10</td><td>Katholische Theresienschule (Gymnasium)</td><td>676</td><td>387</td><td>289</td><td>56</td><td>30</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P11</td><td>Stephanus-Schule</td><td>96</td><td>41</td><td>55</td><td>18</td><td>14</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P12</td><td>Evangelische Schule Pankow (Grundschule)</td><td>291</td><td>151</td><td>140</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P13</td><td>Freie Schule Pankow (Integrierte Sekundarschule)</td><td>117</td><td>58</td><td>59</td><td>11</td><td>5</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P14</td><td>Freie Grundschule Pfefferwerk</td><td>138</td><td>77</td><td>61</td><td>14</td><td>11</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P15</td><td>GPB-College gGmbH</td><td>160</td><td>39</td><td>121</td><td>17</td><td>4</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P18</td><td>dreieins-Grundschule Berlin-Pankow</td><td>282</td><td>137</td><td>145</td><td>28</td><td>20</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P20</td><td>SchuleEins (Gemeinschaftsschule)</td><td>686</td><td>337</td><td>349</td><td>66</td><td>34</td><td>32</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P21</td><td>Freie Integrative Montessori Grundschule Pankow</td><td>94</td><td>54</td><td>40</td><td>11</td><td>10</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P22</td><td>Klax-Gemeinschaftsschule</td><td>615</td><td>266</td><td>349</td><td>56</td><td>32</td><td>24</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P23</td><td>Freie Naturschule im StadtGUT (Grundschule)</td><td>66</td><td>31</td><td>35</td><td>5</td><td>2</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P24</td><td>Ting-Schule (Integrierte Sekundarschule)</td><td>37</td><td>14</td><td>23</td><td>3</td><td>2</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P26</td><td>Lauder Beth-Zion Schule (Gemeinschaftsschule)</td><td>93</td><td>45</td><td>48</td><td>27</td><td>19</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P27</td><td>Klax Berufsakademie</td><td>189</td><td>133</td><td>56</td><td>12</td><td>7</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P28</td><td>Platanus Schule Berlin (Gemeinschaftsschule)</td><td>507</td><td>254</td><td>253</td><td>53</td><td>32</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P30</td><td>Freie Waldorfschule am Prenzlauer Berg</td><td>328</td><td>189</td><td>139</td><td>35</td><td>19</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P32</td><td>Montessori-Gemeinschaftsschule Berlin Buch</td><td>270</td><td>145</td><td>125</td><td>27</td><td>22</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P33</td><td>Evangelische Schule Berlin Buch (Grundschule)</td><td>261</td><td>121</td><td>140</td><td>19</td><td>12</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P36</td><td>WETEK - Fachschule für Sozialpädagogik</td><td>166</td><td>114</td><td>52</td><td>17</td><td>12</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P37</td><td>Berlin Bilingual School (Integrierte Sekundarschule)</td><td>145</td><td>81</td><td>64</td><td>24</td><td>13</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P38</td><td>S.K.O.U.T. - Fachschule für Sozialpädagogik</td><td>41</td><td>23</td><td>18</td><td>8</td><td>6</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P39</td><td>Stephanus-Grundschule </td><td>270</td><td>135</td><td>135</td><td>16</td><td>12</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P40</td><td>SAfS - Spektrum Akademie für Sozialpädagogik (Kein Schulbetrieb)</td><td>8</td><td>7</td><td>1</td><td>4</td><td>3</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P42</td><td>Weiterdenker-Fachschule für Sozialpädagogik</td><td>83</td><td>50</td><td>33</td><td>10</td><td>7</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P43</td><td>Pfefferwerk - Fachschule für Sozialpädagogik</td><td>48</td><td>33</td><td>15</td><td>7</td><td>7</td><td>0</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P44</td><td>St. Hildegard Akademie gGmbH</td><td>0</td><td>0</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P45</td><td>PepperMont Freie Sekundarschule für ganzheitliches Lernen</td><td>95</td><td>50</td><td>45</td><td>13</td><td>9</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P46</td><td>Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg) gGmbH</td><td>158</td><td>101</td><td>57</td><td>12</td><td>9</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03P47</td><td>Bilinguale Schule Phorms Berlin Prenzlauer Berg (Grundschule)</td><td>120</td><td>56</td><td>64</td><td>11</td><td>8</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>03P48</td><td>Freie Humanistische Grundschule</td><td>24</td><td>14</td><td>10</td><td>2</td><td>2</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03S03</td><td>Helene-Haeusler-Schule</td><td>163</td><td>63</td><td>100</td><td>37</td><td>27</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>03S06</td><td>Schule am Birkenhof</td><td>79</td><td>32</td><td>47</td><td>14</td><td>10</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03S08</td><td>Panke-Schule</td><td>134</td><td>45</td><td>89</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>03S09</td><td>Schule an der Strauchwiese</td><td>80</td><td>22</td><td>58</td><td>18</td><td>16</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03S10</td><td>Marianne-Buggenhagen-Schule</td><td>220</td><td>110</td><td>110</td><td>43</td><td>32</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>03Y03</td><td>Käthe-Kollwitz-Gymnasium</td><td>943</td><td>352</td><td>591</td><td>78</td><td>40</td><td>38</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03Y04</td><td>Heinrich-Schliemann-Gymnasium</td><td>1204</td><td>709</td><td>495</td><td>93</td><td>47</td><td>46</td>
+	</tr><tr>
+		<td>2024/25</td><td>03Y08</td><td>Carl-von-Ossietzky-Gymnasium</td><td>1123</td><td>691</td><td>432</td><td>101</td><td>62</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03Y10</td><td>Rosa-Luxemburg-Gymnasium</td><td>1259</td><td>665</td><td>594</td><td>116</td><td>57</td><td>59</td>
+	</tr><tr>
+		<td>2024/25</td><td>03Y13</td><td>Felix-Mendelssohn-Bartholdy-Gymnasium</td><td>1358</td><td>867</td><td>491</td><td>106</td><td>60</td><td>46</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03Y14</td><td>Primo-Levi-Gymnasium</td><td>1331</td><td>668</td><td>663</td><td>109</td><td>69</td><td>40</td>
+	</tr><tr>
+		<td>2024/25</td><td>03Y15</td><td>Max-Delbrück-Gymnasium</td><td>1056</td><td>546</td><td>510</td><td>84</td><td>52</td><td>32</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>03Y16</td><td>Robert-Havemann-Gymnasium</td><td>1154</td><td>540</td><td>614</td><td>85</td><td>47</td><td>38</td>
+	</tr><tr>
+		<td>2024/25</td><td>03Y17</td><td>Inge-Deutschkron-Gymnasium</td><td>771</td><td>311</td><td>460</td><td>64</td><td>38</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04A08</td><td>Sportschule im Olympiapark - Poelchau-Schule</td><td>524</td><td>248</td><td>276</td><td>67</td><td>40</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>04B01</td><td>Loschmidt-Oberschule</td><td>384</td><td>147</td><td>237</td><td>44</td><td>24</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04B02</td><td>Hans-Litten-Schule (OSZ Recht und Wirtschaft)</td><td>1637</td><td>769</td><td>868</td><td>108</td><td>67</td><td>41</td>
+	</tr><tr>
+		<td>2024/25</td><td>04B03</td><td>OSZ Kraftfahrzeugtechnik</td><td>1831</td><td>107</td><td>1724</td><td>68</td><td>18</td><td>50</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04B04</td><td>Ruth-Cohn-Schule (OSZ Sozialwesen)</td><td>908</td><td>621</td><td>287</td><td>71</td><td>44</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>04B05</td><td>Anna-Freud-Schule (OSZ Sozialwesen)</td><td>1484</td><td>1098</td><td>386</td><td>129</td><td>102</td><td>27</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04B06</td><td>Leopold-Ullstein-Schule (OSZ Wirtschaft)</td><td>1186</td><td>457</td><td>729</td><td>74</td><td>47</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>04B07</td><td>OSZ Ästhetik und Technik</td><td>1187</td><td>702</td><td>485</td><td>66</td><td>54</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G01</td><td>Eichendorff-Grundschule</td><td>447</td><td>207</td><td>240</td><td>30</td><td>24</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G02</td><td>Lietzensee-Grundschule</td><td>390</td><td>179</td><td>211</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G04</td><td>Joan-Miró-Grundschule</td><td>726</td><td>361</td><td>365</td><td>60</td><td>49</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G05</td><td>Dietrich-Bonhoeffer-Grundschule</td><td>405</td><td>198</td><td>207</td><td>33</td><td>27</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G06</td><td>Wald-Grundschule</td><td>488</td><td>223</td><td>265</td><td>34</td><td>32</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G07</td><td>Ludwig-Cauer-Grundschule</td><td>485</td><td>239</td><td>246</td><td>33</td><td>30</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G08</td><td>Mierendorff-Grundschule</td><td>458</td><td>230</td><td>228</td><td>39</td><td>29</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G09</td><td>Erwin-von-Witzleben-Grundschule</td><td>447</td><td>211</td><td>236</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G11</td><td>Helmuth-James-von-Moltke-Grundschule</td><td>482</td><td>224</td><td>258</td><td>42</td><td>31</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G12</td><td>Schinkel-Grundschule</td><td>708</td><td>357</td><td>351</td><td>59</td><td>48</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G13</td><td>Nehring-Grundschule</td><td>505</td><td>253</td><td>252</td><td>42</td><td>32</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G14</td><td>Reinhold-Otto-Grundschule</td><td>440</td><td>223</td><td>217</td><td>35</td><td>27</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G15</td><td>Charles-Dickens-Grundschule</td><td>456</td><td>228</td><td>228</td><td>43</td><td>37</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G17</td><td>Johann-Peter-Hebel-Grundschule</td><td>550</td><td>274</td><td>276</td><td>46</td><td>42</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G18</td><td>Ernst-Habermann-Grundschule</td><td>334</td><td>163</td><td>171</td><td>23</td><td>15</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G19</td><td>Grundschule am Rüdesheimer Platz</td><td>562</td><td>275</td><td>287</td><td>51</td><td>43</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G20</td><td>Katharina-Heinroth-Grundschule</td><td>747</td><td>391</td><td>356</td><td>56</td><td>49</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G21</td><td>Halensee-Grundschule</td><td>446</td><td>227</td><td>219</td><td>27</td><td>25</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G22</td><td>Grunewald-Grundschule</td><td>585</td><td>277</td><td>308</td><td>36</td><td>32</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G23</td><td>Alt-Schmargendorf-Grundschule</td><td>530</td><td>249</td><td>281</td><td>40</td><td>36</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G24</td><td>Carl-Orff-Grundschule</td><td>613</td><td>319</td><td>294</td><td>44</td><td>35</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G25</td><td>Cecilien-Schule (Grundschule)</td><td>434</td><td>210</td><td>224</td><td>31</td><td>27</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04G26</td><td>Birger-Forell-Grundschule</td><td>417</td><td>205</td><td>212</td><td>34</td><td>29</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>04G27</td><td>Judith-Kerr-Grundschule</td><td>374</td><td>194</td><td>180</td><td>32</td><td>24</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04K02</td><td>Friedensburg-Schule</td><td>1249</td><td>612</td><td>637</td><td>120</td><td>68</td><td>52</td>
+	</tr><tr>
+		<td>2024/25</td><td>04K03</td><td>Robert-Jungk-Schule</td><td>888</td><td>410</td><td>478</td><td>104</td><td>65</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04K04</td><td>Nelson-Mandela-Schule</td><td>1044</td><td>504</td><td>540</td><td>114</td><td>70</td><td>44</td>
+	</tr><tr>
+		<td>2024/25</td><td>04K05</td><td>Paula-Fürst-Schule (Gemeinschaftsschule)</td><td>1139</td><td>541</td><td>598</td><td>101</td><td>68</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04K06</td><td>Schule am Schloss (Integrierte Sekundarschule)</td><td>474</td><td>192</td><td>282</td><td>50</td><td>34</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>04K07</td><td>Integrierte Sekundarschule Wilmersdorf</td><td>344</td><td>161</td><td>183</td><td>32</td><td>18</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04K08</td><td>Peter-Ustinov-Schule</td><td>461</td><td>211</td><td>250</td><td>58</td><td>30</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>04K09</td><td>Otto-von-Guericke-Schule (Integrierte Sekundarschule)</td><td>436</td><td>200</td><td>236</td><td>44</td><td>26</td><td>18</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04K10</td><td>Wangari-Maathai-Internationale-Schule</td><td>304</td><td>140</td><td>164</td><td>34</td><td>23</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P01</td><td>Katholische Schule Herz Jesu (Grundschule)</td><td>312</td><td>151</td><td>161</td><td>22</td><td>19</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P02</td><td>Schele-Schule (Gemeinschaftsschule)</td><td>141</td><td>67</td><td>74</td><td>18</td><td>12</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P03</td><td>Heinz-Galinski-Schule (Grundschule)</td><td>251</td><td>138</td><td>113</td><td>24</td><td>17</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P04</td><td>Katholische Schule Liebfrauen (Gymnasium)</td><td>735</td><td>418</td><td>317</td><td>65</td><td>39</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P05</td><td>Evangelische Schule Charlottenburg (Integrierte Sekundarschule)</td><td>471</td><td>235</td><td>236</td><td>40</td><td>28</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P09</td><td>IFAG Institut für angewandte Gerontologie</td><td>0</td><td>0</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P10</td><td>Katholische Schule Sankt Ludwig (Grundschule)</td><td>258</td><td>144</td><td>114</td><td>18</td><td>15</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P11</td><td>Evangelisches Gymnasium zum Grauen Kloster</td><td>591</td><td>301</td><td>290</td><td>57</td><td>34</td><td>23</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P12</td><td>Annie-Heuser-Schule</td><td>313</td><td>169</td><td>144</td><td>37</td><td>29</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P15</td><td>Freie Schule Charlottenburg</td><td>79</td><td>35</td><td>44</td><td>14</td><td>9</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P20</td><td>Rackow-Schulen Berlin</td><td>412</td><td>208</td><td>204</td><td>41</td><td>21</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P21</td><td>Evangelische Schule Wilmersdorf (Grundschule)</td><td>274</td><td>150</td><td>124</td><td>25</td><td>24</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P22</td><td>Erste Aktivschule Charlottenburg (Grundschule)</td><td>42</td><td>20</td><td>22</td><td>3</td><td>2</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P23</td><td>Jüdische Traditionsschule</td><td>190</td><td>88</td><td>102</td><td>30</td><td>21</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P24</td><td>Moser-Schule - Schweizer Gymnasium</td><td>334</td><td>159</td><td>175</td><td>36</td><td>23</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P27</td><td>Schule am Westend</td><td>74</td><td>36</td><td>38</td><td>8</td><td>5</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P35</td><td>Mentora Gymnasium</td><td>72</td><td>38</td><td>34</td><td>10</td><td>6</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P37</td><td>Campus Berufsbildung e.V.</td><td>120</td><td>80</td><td>40</td><td>15</td><td>7</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P39</td><td>Berlin British School (Grundschule)</td><td>118</td><td>56</td><td>62</td><td>21</td><td>15</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P40</td><td>Berlin British School (Integrierte Sekundarschule)</td><td>66</td><td>37</td><td>29</td><td>29</td><td>11</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P41</td><td>Freudberg-Gemeinschaftsschule</td><td>331</td><td>159</td><td>172</td><td>42</td><td>31</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P42</td><td>Private Kant-Schule - Berlin International School</td><td>846</td><td>429</td><td>417</td><td>106</td><td>75</td><td>31</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P45</td><td>Jewish International School - Masorti-Grundschule</td><td>77</td><td>31</td><td>46</td><td>15</td><td>12</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04P46</td><td>Hasenschule (Grundschule)</td><td>24</td><td>7</td><td>17</td><td>2</td><td>2</td><td>0</td>
+	</tr><tr>
+		<td>2024/25</td><td>04P47</td><td>Privates Europa-Gymnasium Berlin</td><td>84</td><td>42</td><td>42</td><td>16</td><td>6</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04S02</td><td>Arno-Fuchs-Schule</td><td>124</td><td>50</td><td>74</td><td>27</td><td>23</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>04S04</td><td>Reinfelder-Schule</td><td>408</td><td>167</td><td>241</td><td>58</td><td>52</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04S05</td><td>Ernst-Adolf-Eschke-Schule für Gehörlose</td><td>120</td><td>59</td><td>61</td><td>40</td><td>31</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>04S06</td><td>Finkenkrug-Schule</td><td>133</td><td>38</td><td>95</td><td>25</td><td>19</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04S07</td><td>Comenius-Schule</td><td>591</td><td>225</td><td>366</td><td>102</td><td>85</td><td>17</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y01</td><td>Schiller-Gymnasium</td><td>1005</td><td>552</td><td>453</td><td>89</td><td>59</td><td>30</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04Y02</td><td>Wald-Gymnasium</td><td>734</td><td>328</td><td>406</td><td>68</td><td>38</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y03</td><td>Sophie-Charlotte-Gymnasium</td><td>730</td><td>416</td><td>314</td><td>61</td><td>37</td><td>24</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04Y04</td><td>Gottfried-Keller-Gymnasium</td><td>858</td><td>347</td><td>511</td><td>81</td><td>52</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y05</td><td>Herder-Gymnasium</td><td>900</td><td>301</td><td>599</td><td>72</td><td>39</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04Y06</td><td>Heinz-Berggruen-Gymnasium</td><td>874</td><td>565</td><td>309</td><td>74</td><td>45</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y07</td><td>Friedrich-Ebert-Gymnasium</td><td>791</td><td>446</td><td>345</td><td>64</td><td>35</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04Y08</td><td>Hildegard-Wegscheider-Gymnasium</td><td>619</td><td>258</td><td>361</td><td>47</td><td>31</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y09</td><td>Walther-Rathenau-Gymnasium</td><td>555</td><td>246</td><td>309</td><td>49</td><td>26</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>04Y10</td><td>Marie-Curie-Gymnasium</td><td>717</td><td>335</td><td>382</td><td>64</td><td>37</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>04Y11</td><td>Goethe-Gymnasium</td><td>836</td><td>420</td><td>416</td><td>61</td><td>30</td><td>31</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05B01</td><td>OSZ TIEM (Technische Informatik, Industrieelektronik und EnergieManagement)</td><td>1910</td><td>114</td><td>1796</td><td>82</td><td>22</td><td>60</td>
+	</tr><tr>
+		<td>2024/25</td><td>05B02</td><td>Knobelsdorff-Schule (OSZ Bautechnik I)</td><td>1843</td><td>131</td><td>1712</td><td>133</td><td>38</td><td>95</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G01</td><td>Ernst-Ludwig-Heim-Grundschule</td><td>450</td><td>200</td><td>250</td><td>49</td><td>40</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G02</td><td>Grundschule am Eichenwald</td><td>447</td><td>224</td><td>223</td><td>38</td><td>28</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G04</td><td>Klosterfeld-Grundschule</td><td>372</td><td>183</td><td>189</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G05</td><td>Christoph-Földerich-Grundschule</td><td>568</td><td>284</td><td>284</td><td>55</td><td>46</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G06</td><td>Siegerland-Grundschule</td><td>553</td><td>266</td><td>287</td><td>49</td><td>41</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G07</td><td>Lynar-Grundschule</td><td>518</td><td>251</td><td>267</td><td>58</td><td>46</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G08</td><td>Konkordia-Grundschule</td><td>441</td><td>216</td><td>225</td><td>30</td><td>23</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G10</td><td>Grundschule am Birkenhain</td><td>477</td><td>248</td><td>229</td><td>46</td><td>35</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G11</td><td>Robert-Reinick-Grundschule</td><td>548</td><td>259</td><td>289</td><td>41</td><td>29</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G12</td><td>Grundschule am Weinmeisterhorn</td><td>418</td><td>206</td><td>212</td><td>33</td><td>30</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G13</td><td>Bernd-Ryke-Grundschule</td><td>639</td><td>310</td><td>329</td><td>59</td><td>30</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G14</td><td>Linden-Grundschule</td><td>625</td><td>316</td><td>309</td><td>45</td><td>37</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G15</td><td>Askanier-Grundschule</td><td>429</td><td>197</td><td>232</td><td>33</td><td>21</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G16</td><td>Zeppelin-Grundschule</td><td>285</td><td>127</td><td>158</td><td>23</td><td>16</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G17</td><td>Astrid-Lindgren-Grundschule</td><td>467</td><td>233</td><td>234</td><td>48</td><td>41</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G18</td><td>Grundschule im Beerwinkel</td><td>602</td><td>273</td><td>329</td><td>51</td><td>31</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G19</td><td>Grundschule am Ritterfeld</td><td>536</td><td>254</td><td>282</td><td>38</td><td>33</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G20</td><td>Carl-Schurz-Grundschule</td><td>483</td><td>225</td><td>258</td><td>45</td><td>36</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G21</td><td>Paul-Moor-Grundschule</td><td>255</td><td>112</td><td>143</td><td>36</td><td>30</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G22</td><td>Christian-Morgenstern-Grundschule</td><td>580</td><td>298</td><td>282</td><td>50</td><td>42</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G23</td><td>Grundschule am Brandwerder</td><td>421</td><td>196</td><td>225</td><td>36</td><td>31</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G24</td><td>Grundschule am Windmühlenberg</td><td>418</td><td>204</td><td>214</td><td>34</td><td>32</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G25</td><td>Grundschule am Wasserwerk</td><td>205</td><td>98</td><td>107</td><td>22</td><td>14</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G26</td><td>Grundschule am Amalienhof</td><td>519</td><td>253</td><td>266</td><td>45</td><td>40</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G27</td><td>Peter-Härtling-Grundschule </td><td>629</td><td>298</td><td>331</td><td>56</td><td>53</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G28</td><td>Grundschule an der Pulvermühle</td><td>677</td><td>348</td><td>329</td><td>50</td><td>39</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G29</td><td>Mary-Poppins-Grundschule</td><td>519</td><td>261</td><td>258</td><td>36</td><td>29</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G30</td><td>Birken-Grundschule</td><td>525</td><td>256</td><td>269</td><td>59</td><td>46</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05G31</td><td>Havel-Grundschule</td><td>518</td><td>269</td><td>249</td><td>55</td><td>42</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>05G32</td><td>32. Schule (Grundschule)</td><td>37</td><td>17</td><td>20</td><td>3</td><td>3</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05K01</td><td>Martin-Buber-Oberschule (Integrierte Sekundarschule)</td><td>1043</td><td>547</td><td>496</td><td>100</td><td>57</td><td>43</td>
+	</tr><tr>
+		<td>2024/25</td><td>05K02</td><td>Carlo-Schmid-Oberschule (Integrierte Sekundarschule)</td><td>1045</td><td>547</td><td>498</td><td>106</td><td>64</td><td>42</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05K03</td><td>Bertolt-Brecht-Oberschule (Integrierte Sekundarschule)</td><td>1240</td><td>608</td><td>632</td><td>109</td><td>64</td><td>45</td>
+	</tr><tr>
+		<td>2024/25</td><td>05K04</td><td>Heinrich-Böll-Oberschule (Integrierte Sekundarschule)</td><td>1009</td><td>471</td><td>538</td><td>97</td><td>54</td><td>43</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05K05</td><td>B.-Traven-Gemeinschaftsschule</td><td>761</td><td>353</td><td>408</td><td>69</td><td>33</td><td>36</td>
+	</tr><tr>
+		<td>2024/25</td><td>05K06</td><td>Wolfgang-Borchert-Schule (Integrierte Sekundarschule)</td><td>861</td><td>389</td><td>472</td><td>88</td><td>46</td><td>42</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05K07</td><td>Schule an der Jungfernheide (Integrierte Sekundarschule)</td><td>450</td><td>206</td><td>244</td><td>55</td><td>41</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>05K08</td><td>Schule an der Haveldüne (Integrierte Sekundarschule)</td><td>833</td><td>345</td><td>488</td><td>86</td><td>51</td><td>35</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05K09</td><td>Schule am Staakener Kleeblatt (Integrierte Sekundarschule)</td><td>526</td><td>214</td><td>312</td><td>49</td><td>23</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P01</td><td>Freie Waldorfschule Havelhöhe - Eugen Kolisko</td><td>339</td><td>166</td><td>173</td><td>38</td><td>27</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05P02</td><td>Katholische Schule Bernhard Lichtenberg (Grundschule)</td><td>323</td><td>176</td><td>147</td><td>23</td><td>21</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P03</td><td>Evangelische Schule Spandau im Johannesstift</td><td>635</td><td>347</td><td>288</td><td>54</td><td>39</td><td>15</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05P04</td><td>August-Hermann-Francke-Schule</td><td>123</td><td>46</td><td>77</td><td>17</td><td>14</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P05</td><td>Berufsschule des Rotkreuz-Instituts</td><td>258</td><td>79</td><td>179</td><td>27</td><td>14</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05P06</td><td>Werner-von-Siemens-Werkberufsschule der Siemens AG</td><td>241</td><td>12</td><td>229</td><td>13</td><td>3</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P10</td><td>Soziale Fachschulen Johannesstift Diakonie gGmbH</td><td>216</td><td>155</td><td>61</td><td>22</td><td>17</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05P13</td><td>Wilhelmstadt Schulen</td><td>876</td><td>421</td><td>455</td><td>70</td><td>36</td><td>34</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P15</td><td>Immanuel-Grundschule</td><td>139</td><td>72</td><td>67</td><td>13</td><td>9</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05P18</td><td>Freie Georgschule </td><td>275</td><td>147</td><td>128</td><td>28</td><td>21</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05P19</td><td>SIS Swiss International School Berlin</td><td>270</td><td>119</td><td>151</td><td>30</td><td>19</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05S01</td><td>Schule am Grüngürtel</td><td>136</td><td>44</td><td>92</td><td>20</td><td>13</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>05S03</td><td>Schule am Gartenfeld</td><td>172</td><td>43</td><td>129</td><td>39</td><td>31</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05S04</td><td>Schule am Stadtrand</td><td>101</td><td>38</td><td>63</td><td>32</td><td>26</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>05Y01</td><td>Freiherr-vom-Stein-Gymnasium</td><td>942</td><td>439</td><td>503</td><td>89</td><td>60</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05Y02</td><td>Kant-Gymnasium</td><td>833</td><td>505</td><td>328</td><td>71</td><td>45</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>05Y03</td><td>Hans-Carossa-Gymnasium</td><td>1120</td><td>580</td><td>540</td><td>92</td><td>60</td><td>32</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>05Y04</td><td>Carl-Friedrich-von-Siemens-Gymnasium</td><td>790</td><td>379</td><td>411</td><td>65</td><td>38</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>05Y05</td><td>Lily-Braun-Gymnasium</td><td>696</td><td>444</td><td>252</td><td>57</td><td>34</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06B01</td><td>Peter-Lenné-Schule (OSZ Natur und Umwelt)</td><td>1276</td><td>556</td><td>720</td><td>70</td><td>35</td><td>35</td>
+	</tr><tr>
+		<td>2024/25</td><td>06B02</td><td>Louise-Schroeder-Schule (OSZ Bürowirtschaft und Verwaltung)</td><td>2256</td><td>1353</td><td>903</td><td>115</td><td>64</td><td>51</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06B03</td><td>OSZ Bürowirtschaft 1</td><td>1246</td><td>635</td><td>611</td><td>77</td><td>48</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>06B04</td><td>Wilhelm-Ostwald-Schule (OSZ Gestaltung)</td><td>1207</td><td>504</td><td>703</td><td>73</td><td>35</td><td>38</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G01</td><td>Nord-Grundschule</td><td>388</td><td>177</td><td>211</td><td>28</td><td>27</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G02</td><td>Süd-Grundschule</td><td>370</td><td>183</td><td>187</td><td>26</td><td>23</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G03</td><td>Johannes-Tews-Grundschule</td><td>421</td><td>192</td><td>229</td><td>29</td><td>23</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G04</td><td>Erich-Kästner-Grundschule</td><td>434</td><td>207</td><td>227</td><td>30</td><td>26</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G05</td><td>Conrad-Schule (Grundschule)</td><td>474</td><td>233</td><td>241</td><td>39</td><td>34</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G06</td><td>Mühlenau-Grundschule</td><td>626</td><td>282</td><td>344</td><td>53</td><td>49</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G07</td><td>Zinnowwald-Grundschule</td><td>486</td><td>235</td><td>251</td><td>37</td><td>28</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G08</td><td>Schweizerhof-Grundschule</td><td>421</td><td>217</td><td>204</td><td>31</td><td>28</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G09</td><td>Dreilinden-Grundschule</td><td>337</td><td>160</td><td>177</td><td>25</td><td>20</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G10</td><td>Grundschule am Buschgraben</td><td>253</td><td>129</td><td>124</td><td>24</td><td>20</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G12</td><td>Quentin-Blake-Grundschule</td><td>445</td><td>192</td><td>253</td><td>34</td><td>25</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G14</td><td>Sachsenwald-Grundschule</td><td>440</td><td>237</td><td>203</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G15</td><td>Dunant-Grundschule</td><td>574</td><td>275</td><td>299</td><td>41</td><td>39</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G16</td><td>Rothenburg-Grundschule</td><td>281</td><td>144</td><td>137</td><td>24</td><td>23</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G17</td><td>Grundschule am Insulaner</td><td>446</td><td>212</td><td>234</td><td>36</td><td>27</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G18</td><td>Athene-Grundschule</td><td>478</td><td>239</td><td>239</td><td>39</td><td>33</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G20</td><td>Alt-Lankwitzer Grundschule</td><td>484</td><td>220</td><td>264</td><td>34</td><td>31</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G21</td><td>Paul-Schneider-Grundschule</td><td>533</td><td>264</td><td>269</td><td>36</td><td>28</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G22</td><td>Giesensdorfer Grundschule</td><td>370</td><td>170</td><td>200</td><td>30</td><td>28</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G23</td><td>Kronach-Grundschule</td><td>449</td><td>217</td><td>232</td><td>31</td><td>26</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G24</td><td>Grundschule unter den Kastanien</td><td>474</td><td>243</td><td>231</td><td>34</td><td>30</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G25</td><td>Clemens-Brentano-Grundschule</td><td>485</td><td>253</td><td>232</td><td>35</td><td>31</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G26</td><td>Käthe-Kruse-Grundschule</td><td>412</td><td>209</td><td>203</td><td>32</td><td>29</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G27</td><td>Grundschule am Königsgraben</td><td>628</td><td>305</td><td>323</td><td>45</td><td>40</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G28</td><td>Ludwig-Bechstein-Grundschule</td><td>261</td><td>124</td><td>137</td><td>25</td><td>19</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G29</td><td>Grundschule am Karpfenteich</td><td>474</td><td>252</td><td>222</td><td>33</td><td>29</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G30</td><td>Mercator-Grundschule</td><td>323</td><td>161</td><td>162</td><td>28</td><td>23</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G31</td><td>Grundschule an der Bäke</td><td>440</td><td>214</td><td>226</td><td>37</td><td>33</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G32</td><td>Grundschule am Stadtpark Steglitz</td><td>523</td><td>255</td><td>268</td><td>38</td><td>32</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>06G33</td><td>Friedrich-Drake-Grundschule</td><td>317</td><td>148</td><td>169</td><td>25</td><td>23</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06G34</td><td>Grundschule in der Plantagenstraße</td><td>280</td><td>129</td><td>151</td><td>19</td><td>16</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>06K01</td><td>John-F.-Kennedy-Schule</td><td>1463</td><td>705</td><td>758</td><td>159</td><td>99</td><td>60</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06K02</td><td>Wilma-Rudolph-Schule (Integrierte Sekundarschule)</td><td>1012</td><td>470</td><td>542</td><td>102</td><td>60</td><td>42</td>
+	</tr><tr>
+		<td>2024/25</td><td>06K03</td><td>Kopernikus-Schule (Integrierte Sekundarschule)</td><td>954</td><td>464</td><td>490</td><td>97</td><td>58</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06K04</td><td>Bröndby-Schule (Integrierte Sekundarschule)</td><td>998</td><td>455</td><td>543</td><td>88</td><td>53</td><td>35</td>
+	</tr><tr>
+		<td>2024/25</td><td>06K08</td><td>Max-von-Laue-Schule</td><td>520</td><td>234</td><td>286</td><td>56</td><td>37</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06K09</td><td>Gail-S.-Halvorsen-Integrierte Sekundarschule</td><td>472</td><td>185</td><td>287</td><td>47</td><td>34</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>06K10</td><td>Helene-Lange-Schule (Integrierte Sekundarschule)</td><td>676</td><td>277</td><td>399</td><td>66</td><td>49</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06K11</td><td>Anna-Essinger-Gemeinschaftsschule</td><td>933</td><td>461</td><td>472</td><td>101</td><td>77</td><td>24</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P01</td><td>Katholische Schule Sankt Ursula (Grundschule)</td><td>297</td><td>168</td><td>129</td><td>25</td><td>24</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P02</td><td>Johanna-Gerdes-Grundschule</td><td>123</td><td>69</td><td>54</td><td>11</td><td>8</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P04</td><td>Rudolf-Steiner-Schule Berlin</td><td>838</td><td>440</td><td>398</td><td>85</td><td>56</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P05</td><td>Emil-Molt-Schule</td><td>378</td><td>184</td><td>194</td><td>31</td><td>20</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P06</td><td>Königin-Luise-Stiftung</td><td>964</td><td>490</td><td>474</td><td>104</td><td>66</td><td>38</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P07</td><td>Parzival-Schule</td><td>135</td><td>61</td><td>74</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P08</td><td>Sancta-Maria-Schule der Hedwigschwestern</td><td>132</td><td>55</td><td>77</td><td>27</td><td>19</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P09</td><td>Caroline-von-Heydebrand-Schule</td><td>77</td><td>21</td><td>56</td><td>16</td><td>12</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P10</td><td>Private Kant-Schule (Grundschule)</td><td>295</td><td>129</td><td>166</td><td>27</td><td>20</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P11</td><td>Private Kant-Schule </td><td>1079</td><td>535</td><td>544</td><td>106</td><td>74</td><td>32</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P12</td><td>Evangelische Schule Steglitz (Integrierte Sekundarschule)</td><td>621</td><td>323</td><td>298</td><td>53</td><td>36</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P13</td><td>Gemeinschaftsschule nach der Pädagogik Berthold Ottos</td><td>177</td><td>83</td><td>94</td><td>20</td><td>15</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P15</td><td>Oberlin-Seminar</td><td>299</td><td>213</td><td>86</td><td>24</td><td>18</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P18</td><td>Bilinguale Schule Phorms Berlin Süd</td><td>547</td><td>277</td><td>270</td><td>53</td><td>28</td><td>25</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P20</td><td>Freie Schule Anne-Sophie Berlin</td><td>427</td><td>222</td><td>205</td><td>58</td><td>42</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06P21</td><td>Internationale Montessorischule Berlin (Grundschule)</td><td>117</td><td>54</td><td>63</td><td>13</td><td>11</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>06P24</td><td>Evangelische Grundschule Zehlendorf</td><td>172</td><td>82</td><td>90</td><td>17</td><td>15</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06S01</td><td>Pestalozzi-Schule</td><td>248</td><td>93</td><td>155</td><td>48</td><td>43</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06S02</td><td>Biesalski-Schule</td><td>202</td><td>57</td><td>145</td><td>55</td><td>45</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06S03</td><td>Peter-Frankenfeld-Schule</td><td>72</td><td>19</td><td>53</td><td>21</td><td>16</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>06S05</td><td>J.-A.-Zeune-Schule für Blinde und Berufsfachschule Dr. Silex</td><td>114</td><td>44</td><td>70</td><td>52</td><td>44</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y01</td><td>Schadow-Gymnasium</td><td>1050</td><td>507</td><td>543</td><td>90</td><td>51</td><td>39</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y02</td><td>Droste-Hülshoff-Gymnasium</td><td>830</td><td>501</td><td>329</td><td>69</td><td>45</td><td>24</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y03</td><td>Arndt-Gymnasium Dahlem</td><td>878</td><td>476</td><td>402</td><td>70</td><td>44</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y04</td><td>Dreilinden-Gymnasium</td><td>766</td><td>369</td><td>397</td><td>72</td><td>46</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y05</td><td>Werner-von-Siemens-Gymnasium</td><td>908</td><td>365</td><td>543</td><td>66</td><td>44</td><td>22</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y06</td><td>Beethoven-Gymnasium</td><td>876</td><td>530</td><td>346</td><td>72</td><td>43</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y07</td><td>Paulsen-Gymnasium</td><td>698</td><td>367</td><td>331</td><td>57</td><td>30</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y08</td><td>Hermann-Ehlers-Gymnasium</td><td>608</td><td>317</td><td>291</td><td>54</td><td>35</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y09</td><td>Fichtenberg-Oberschule</td><td>809</td><td>472</td><td>337</td><td>78</td><td>46</td><td>32</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y10</td><td>Lilienthal-Gymnasium</td><td>767</td><td>417</td><td>350</td><td>64</td><td>42</td><td>22</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y11</td><td>Goethe-Gymnasium Lichterfelde</td><td>726</td><td>345</td><td>381</td><td>69</td><td>35</td><td>34</td>
+	</tr><tr>
+		<td>2024/25</td><td>06Y12</td><td>Willi-Graf-Gymnasium</td><td>585</td><td>318</td><td>267</td><td>49</td><td>26</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>06Y13</td><td>Gymnasium Steglitz</td><td>816</td><td>415</td><td>401</td><td>73</td><td>43</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>07B02</td><td>Marie-Elisabeth-Lüders-Oberschule</td><td>647</td><td>484</td><td>163</td><td>61</td><td>41</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07B03</td><td>OSZ Lotis (Logistik, Touristik und Steuern)</td><td>2131</td><td>801</td><td>1330</td><td>97</td><td>62</td><td>35</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G01</td><td>Spreewald-Grundschule</td><td>417</td><td>207</td><td>210</td><td>41</td><td>34</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G02</td><td>Finow-Grundschule</td><td>542</td><td>287</td><td>255</td><td>47</td><td>41</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G03</td><td>Werbellinsee-Grundschule</td><td>454</td><td>219</td><td>235</td><td>36</td><td>32</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G05</td><td>Havelland-Grundschule</td><td>465</td><td>231</td><td>234</td><td>37</td><td>29</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G06</td><td>Sternberg-Grundschule</td><td>259</td><td>122</td><td>137</td><td>29</td><td>25</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G07</td><td>Lindenhof-Grundschule</td><td>380</td><td>170</td><td>210</td><td>30</td><td>22</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G10</td><td>Teltow-Grundschule</td><td>468</td><td>227</td><td>241</td><td>44</td><td>38</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G12</td><td>Scharmützelsee-Grundschule</td><td>465</td><td>236</td><td>229</td><td>37</td><td>31</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G13</td><td>Neumark-Grundschule</td><td>447</td><td>213</td><td>234</td><td>38</td><td>29</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G14</td><td>Löcknitz-Grundschule</td><td>401</td><td>192</td><td>209</td><td>29</td><td>21</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G15</td><td>Fläming-Grundschule</td><td>550</td><td>275</td><td>275</td><td>41</td><td>34</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G16</td><td>Ruppin-Grundschule</td><td>607</td><td>314</td><td>293</td><td>40</td><td>33</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G17</td><td>Stechlinsee-Grundschule</td><td>641</td><td>332</td><td>309</td><td>48</td><td>36</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G18</td><td>Grundschule am Barbarossaplatz</td><td>294</td><td>149</td><td>145</td><td>32</td><td>28</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G19</td><td>Paul-Simmel-Grundschule</td><td>530</td><td>262</td><td>268</td><td>48</td><td>36</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G20</td><td>Maria-Montessori-Grundschule</td><td>493</td><td>241</td><td>252</td><td>37</td><td>34</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G21</td><td>Grundschule auf dem Tempelhofer Feld</td><td>605</td><td>305</td><td>300</td><td>45</td><td>37</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G22</td><td>Paul-Klee-Grundschule</td><td>673</td><td>323</td><td>350</td><td>57</td><td>46</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G23</td><td>Schätzelberg-Grundschule</td><td>374</td><td>155</td><td>219</td><td>31</td><td>21</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G24</td><td>Tempelherren-Grundschule</td><td>335</td><td>165</td><td>170</td><td>28</td><td>22</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G25</td><td>Mascha-Kaléko-Grundschule</td><td>450</td><td>219</td><td>231</td><td>38</td><td>27</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G26</td><td>Grundschule im Taunusviertel</td><td>354</td><td>158</td><td>196</td><td>28</td><td>17</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G27</td><td>Rudolf-Hildebrand-Grundschule</td><td>580</td><td>277</td><td>303</td><td>41</td><td>29</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G28</td><td>Kiepert-Grundschule</td><td>452</td><td>192</td><td>260</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G29</td><td>Käthe-Kollwitz-Grundschule</td><td>554</td><td>261</td><td>293</td><td>39</td><td>34</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G30</td><td>Annedore-Leber-Grundschule</td><td>728</td><td>358</td><td>370</td><td>64</td><td>52</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G31</td><td>Carl-Sonnenschein-Grundschule</td><td>469</td><td>225</td><td>244</td><td>32</td><td>25</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G32</td><td>Bruno-H.-Bürgel-Grundschule</td><td>592</td><td>291</td><td>301</td><td>47</td><td>43</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G34</td><td>Marienfelder Schule (Grundschule)</td><td>839</td><td>392</td><td>447</td><td>56</td><td>40</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G35</td><td>Nahariya-Grundschule</td><td>709</td><td>329</td><td>380</td><td>55</td><td>42</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G36</td><td>Grundschule am Dielingsgrund</td><td>530</td><td>275</td><td>255</td><td>35</td><td>26</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07G37</td><td>Ikarus-Grundschule</td><td>573</td><td>257</td><td>316</td><td>38</td><td>29</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>07G40</td><td>40. Schule (Grundschule)</td><td>113</td><td>55</td><td>58</td><td>12</td><td>10</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K01</td><td>Sophie-Scholl-Schule</td><td>1085</td><td>544</td><td>541</td><td>115</td><td>74</td><td>41</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K02</td><td>Carl-Zeiss-Schule</td><td>1005</td><td>523</td><td>482</td><td>97</td><td>58</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K03</td><td>Gustav-Heinemann-Oberschule</td><td>1193</td><td>603</td><td>590</td><td>102</td><td>36</td><td>66</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K04</td><td>Theodor-Haubach-Schule</td><td>571</td><td>263</td><td>308</td><td>48</td><td>32</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K05</td><td>Solling-Schule</td><td>505</td><td>215</td><td>290</td><td>47</td><td>33</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K06</td><td>Georg-von-Giesche-Schule</td><td>449</td><td>218</td><td>231</td><td>57</td><td>37</td><td>20</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K07</td><td>Johanna-Eck-Schule (Integrierte Sekundarschule)</td><td>566</td><td>281</td><td>285</td><td>69</td><td>36</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K09</td><td>Gustav-Langenscheidt-Schule</td><td>419</td><td>185</td><td>234</td><td>44</td><td>22</td><td>22</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K10</td><td>Friedrich-Bergius-Schule</td><td>401</td><td>181</td><td>220</td><td>43</td><td>27</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K11</td><td>Hugo-Gaudig-Schule</td><td>417</td><td>179</td><td>238</td><td>42</td><td>23</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07K12</td><td>Friedenauer Gemeinschaftsschule</td><td>1187</td><td>577</td><td>610</td><td>119</td><td>89</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>07K13</td><td>Schule am Berlinickeplatz (Integrierte Sekundarschule)</td><td>397</td><td>177</td><td>220</td><td>40</td><td>26</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P01</td><td>Katholische Schule Sankt Franziskus (Integrierte Sekundarschule)</td><td>470</td><td>250</td><td>220</td><td>55</td><td>37</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P02</td><td>Pestalozzi-Fröbel-Haus</td><td>516</td><td>339</td><td>177</td><td>42</td><td>29</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P03</td><td>Lette-Verein Stiftung des öffentlichen Rechts</td><td>392</td><td>211</td><td>181</td><td>85</td><td>51</td><td>34</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P04</td><td>Katholische Schule Sankt Alfons (Grundschule)</td><td>313</td><td>160</td><td>153</td><td>22</td><td>21</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P05</td><td>Freie Schule in Berlin (Grundschule)</td><td>50</td><td>27</td><td>23</td><td>4</td><td>2</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P06</td><td>Katholische Schule Sankt Hildegard</td><td>125</td><td>55</td><td>70</td><td>34</td><td>26</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P10</td><td>Campus Berufsbildung e.V.</td><td>354</td><td>249</td><td>105</td><td>53</td><td>37</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P12</td><td>SPI Fachschule für Sozialpädagogik</td><td>8</td><td>5</td><td>3</td><td>2</td><td>2</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P13</td><td>Deutsch Skandinavische Gemeinschaftsschule</td><td>205</td><td>96</td><td>109</td><td>24</td><td>15</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P17</td><td>Humanistische Fachschule für Sozialpädagogik</td><td>134</td><td>100</td><td>34</td><td>10</td><td>8</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P18</td><td>Johannes-Schule Berlin</td><td>370</td><td>198</td><td>172</td><td>41</td><td>31</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P19</td><td>Freie Schule Schöneberg (Gemeinschaftsschule)</td><td>95</td><td>45</td><td>50</td><td>11</td><td>7</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P20</td><td>Rudolf Steiner Bildungszentrum gGmbH</td><td>205</td><td>130</td><td>75</td><td>30</td><td>23</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>07P21</td><td>BBA-Akademie für Immobilienwirtschaft e.V.</td><td>385</td><td>216</td><td>169</td><td>13</td><td>9</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07P22</td><td>WBS Training Schulen gGmbH</td><td>137</td><td>96</td><td>41</td><td>12</td><td>6</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>07S01</td><td>Prignitz-Schule</td><td>189</td><td>56</td><td>133</td><td>43</td><td>30</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07S03</td><td>Steinwald-Schule</td><td>117</td><td>40</td><td>77</td><td>26</td><td>23</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>07S04</td><td>Marianne-Cohn-Schule</td><td>126</td><td>48</td><td>78</td><td>27</td><td>21</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07Y01</td><td>Robert-Blum-Gymnasium</td><td>768</td><td>450</td><td>318</td><td>68</td><td>49</td><td>19</td>
+	</tr><tr>
+		<td>2024/25</td><td>07Y02</td><td>Rückert-Gymnasium</td><td>791</td><td>398</td><td>393</td><td>68</td><td>34</td><td>34</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07Y03</td><td>Rheingau-Gymnasium</td><td>725</td><td>409</td><td>316</td><td>60</td><td>34</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>07Y04</td><td>Paul-Natorp-Gymnasium</td><td>811</td><td>420</td><td>391</td><td>68</td><td>42</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07Y05</td><td>Luise-Henriette-Gymnasium</td><td>473</td><td>246</td><td>227</td><td>46</td><td>32</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>07Y06</td><td>Askanisches Gymnasium</td><td>741</td><td>395</td><td>346</td><td>57</td><td>29</td><td>28</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07Y07</td><td>Eckener-Gymnasium</td><td>740</td><td>366</td><td>374</td><td>59</td><td>35</td><td>24</td>
+	</tr><tr>
+		<td>2024/25</td><td>07Y08</td><td>Ulrich-von-Hutten-Gymnasium</td><td>839</td><td>441</td><td>398</td><td>69</td><td>36</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>07Y09</td><td>Georg-Büchner-Gymnasium</td><td>580</td><td>317</td><td>263</td><td>50</td><td>26</td><td>24</td>
+	</tr><tr>
+		<td>2024/25</td><td>08B01</td><td>Annedore-Leber-Oberschule</td><td>758</td><td>245</td><td>513</td><td>61</td><td>35</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08B02</td><td>Lise-Meitner-Schule (OSZ Chemie, Physik und Biologie)</td><td>1190</td><td>510</td><td>680</td><td>106</td><td>61</td><td>45</td>
+	</tr><tr>
+		<td>2024/25</td><td>08B04</td><td>OSZ Informations- und Medizintechnik</td><td>2721</td><td>498</td><td>2223</td><td>123</td><td>45</td><td>78</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08B05</td><td>Carl-Legien-Schule (Schulbetrieb an 01B04)</td><td>56</td><td>39</td><td>17</td><td>7</td><td>6</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G01</td><td>Rixdorfer Schule (Grundschule)</td><td>362</td><td>171</td><td>191</td><td>41</td><td>28</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G02</td><td>Theodor-Storm-Schule (Grundschule)</td><td>184</td><td>85</td><td>99</td><td>25</td><td>17</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G03</td><td>Hans-Fallada-Schule (Grundschule)</td><td>439</td><td>211</td><td>228</td><td>45</td><td>34</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G05</td><td>Elbe-Schule (Grundschule)</td><td>248</td><td>110</td><td>138</td><td>29</td><td>19</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G06</td><td>Karl-Weise-Schule (Grundschule)</td><td>370</td><td>196</td><td>174</td><td>29</td><td>19</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G07</td><td>Hermann-Boddin-Schule (Grundschule)</td><td>270</td><td>130</td><td>140</td><td>26</td><td>18</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G08</td><td>Karlsgarten-Schule (Grundschule)</td><td>482</td><td>218</td><td>264</td><td>40</td><td>31</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G09</td><td>Regenbogen-Schule (Grundschule)</td><td>514</td><td>239</td><td>275</td><td>41</td><td>37</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G11</td><td>Schliemann-Grundschule</td><td>622</td><td>331</td><td>291</td><td>44</td><td>34</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G12</td><td>Jenaplanschule Neukölln (Grundschule)</td><td>296</td><td>128</td><td>168</td><td>24</td><td>19</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G13</td><td>Bruno-Taut-Schule (Grundschule)</td><td>535</td><td>245</td><td>290</td><td>41</td><td>34</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G14</td><td>Konrad-Agahd-Schule (Grundschule)</td><td>254</td><td>126</td><td>128</td><td>23</td><td>15</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G15</td><td>Hermann-Sander-Schule (Grundschule)</td><td>577</td><td>283</td><td>294</td><td>42</td><td>28</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G16</td><td>Hugo-Heimann-Schule (Grundschule)</td><td>349</td><td>174</td><td>175</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G17</td><td>Richard-Schule (Grundschule)</td><td>568</td><td>321</td><td>247</td><td>47</td><td>32</td><td>15</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G18</td><td>Eduard-Mörike-Schule (Grundschule)</td><td>302</td><td>151</td><td>151</td><td>28</td><td>18</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G19</td><td>Herman-Nohl-Schule (Grundschule)</td><td>496</td><td>246</td><td>250</td><td>51</td><td>37</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G20</td><td>Sonnen-Schule (Grundschule)</td><td>328</td><td>165</td><td>163</td><td>31</td><td>19</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G21</td><td>Silberstein-Schule (Grundschule)</td><td>337</td><td>154</td><td>183</td><td>27</td><td>20</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G22</td><td>Schule am Regenweiher (Grundschule)</td><td>382</td><td>202</td><td>180</td><td>32</td><td>30</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G23</td><td>Zürich-Schule (Grundschule)</td><td>380</td><td>200</td><td>180</td><td>36</td><td>32</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G24</td><td>Schule am Teltowkanal (Grundschule)</td><td>379</td><td>188</td><td>191</td><td>37</td><td>28</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G25</td><td>Michael-Ende-Schule (Grundschule)</td><td>431</td><td>230</td><td>201</td><td>35</td><td>32</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G26</td><td>Christoph-Ruden-Schule (Grundschule)</td><td>310</td><td>154</td><td>156</td><td>30</td><td>24</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G27</td><td>Oskar-Heinroth-Schule (Grundschule)</td><td>651</td><td>338</td><td>313</td><td>51</td><td>36</td><td>15</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G28</td><td>Matthias-Claudius-Schule (Grundschule)</td><td>595</td><td>275</td><td>320</td><td>42</td><td>35</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G29</td><td>Wetzlar-Schule (Grundschule)</td><td>413</td><td>212</td><td>201</td><td>37</td><td>31</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G30</td><td>Schule am Sandsteinweg (Grundschule)</td><td>758</td><td>383</td><td>375</td><td>46</td><td>38</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G31</td><td>Janusz-Korczak-Schule (Grundschule)</td><td>326</td><td>148</td><td>178</td><td>29</td><td>22</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G33</td><td>Schule am Fliederbusch (Grundschule)</td><td>375</td><td>185</td><td>190</td><td>37</td><td>25</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G34</td><td>Lisa-Tetzner-Schule (Grundschule)</td><td>430</td><td>203</td><td>227</td><td>36</td><td>27</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G35</td><td>Schule in der Köllnischen Heide (Grundschule)</td><td>617</td><td>318</td><td>299</td><td>49</td><td>37</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>08G36</td><td>Löwenzahn-Schule (Grundschule)</td><td>277</td><td>138</td><td>139</td><td>23</td><td>14</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08G37</td><td>Rose-Oehmichen-Schule (Grundschule)</td><td>301</td><td>150</td><td>151</td><td>26</td><td>22</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K01</td><td>Walter-Gropius-Schule (Gemeinschaftsschule)</td><td>1050</td><td>525</td><td>525</td><td>113</td><td>74</td><td>39</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K02</td><td>Hermann-von-Helmholtz-Schule</td><td>854</td><td>402</td><td>452</td><td>84</td><td>54</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K03</td><td>Otto-Hahn-Schule</td><td>807</td><td>328</td><td>479</td><td>77</td><td>36</td><td>41</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K04</td><td>Heinrich-Mann-Schule</td><td>452</td><td>186</td><td>266</td><td>44</td><td>25</td><td>19</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K05</td><td>Clay-Schule</td><td>1063</td><td>562</td><td>501</td><td>99</td><td>53</td><td>46</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K06</td><td>Fritz-Karsen-Schule (Gemeinschaftsschule)</td><td>1219</td><td>603</td><td>616</td><td>121</td><td>75</td><td>46</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K08</td><td>Gemeinschaftsschule auf dem Campus Rütli</td><td>966</td><td>461</td><td>505</td><td>118</td><td>74</td><td>44</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K09</td><td>Röntgen-Schule</td><td>404</td><td>199</td><td>205</td><td>43</td><td>30</td><td>13</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K10</td><td>Zuckmayer-Schule</td><td>409</td><td>203</td><td>206</td><td>43</td><td>30</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K11</td><td>Alfred-Nobel-Schule</td><td>540</td><td>234</td><td>306</td><td>52</td><td>31</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>08K12</td><td>Kepler-Schule</td><td>374</td><td>173</td><td>201</td><td>45</td><td>26</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08K13</td><td>Gemeinschaftsschule Campus Efeuweg</td><td>761</td><td>363</td><td>398</td><td>71</td><td>48</td><td>23</td>
+	</tr><tr>
+		<td>2024/25</td><td>08P01</td><td>Johann-Georg-Elser-Schule (Grundschule)</td><td>62</td><td>28</td><td>34</td><td>6</td><td>4</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08P02</td><td>Katholische Schule Sankt Marien (Grundschule)</td><td>334</td><td>177</td><td>157</td><td>21</td><td>17</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>08P03</td><td>Evangelische Schule Neukölln (Integrierte Sekundarschule)</td><td>886</td><td>457</td><td>429</td><td>85</td><td>53</td><td>32</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08P04</td><td>Katholische Schule Sankt Marien</td><td>897</td><td>497</td><td>400</td><td>98</td><td>60</td><td>38</td>
+	</tr><tr>
+		<td>2024/25</td><td>08P08</td><td>Cenfila gGmbH</td><td>107</td><td>76</td><td>31</td><td>11</td><td>9</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08P09</td><td>MeineSchuleBerlin (Gemeinschaftsschule)</td><td>39</td><td>21</td><td>18</td><td>11</td><td>5</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>08P13</td><td>b-trend-setting gGmbH</td><td>36</td><td>6</td><td>30</td><td>13</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08P15</td><td>IB-Berlin-Brandenburg gGmbH - Medizinische Akademie Berlin</td><td>110</td><td>77</td><td>33</td><td>15</td><td>11</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>08P17</td><td>DAA - Deutsche Angestellten-Akademie GmbH</td><td>79</td><td>66</td><td>13</td><td>8</td><td>8</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08S01</td><td>Adolf-Reichwein-Schule</td><td>155</td><td>61</td><td>94</td><td>36</td><td>24</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>08S04</td><td>Schule am Zwickauer Damm</td><td>228</td><td>88</td><td>140</td><td>37</td><td>21</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08S05</td><td>Schule am Hasenhegerweg</td><td>103</td><td>38</td><td>65</td><td>29</td><td>20</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>08S06</td><td>Hans-Fallada-Schule</td><td>84</td><td>26</td><td>58</td><td>20</td><td>14</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08S07</td><td>Schule am Bienwaldring</td><td>177</td><td>74</td><td>103</td><td>40</td><td>33</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>08S08</td><td>Schilling-Schule</td><td>275</td><td>101</td><td>174</td><td>71</td><td>55</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08S09</td><td>Schule an der Windmühle</td><td>51</td><td>15</td><td>36</td><td>15</td><td>9</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>08Y01</td><td>Albrecht-Dürer-Gymnasium</td><td>711</td><td>347</td><td>364</td><td>58</td><td>37</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08Y02</td><td>Albert-Schweitzer-Gymnasium</td><td>609</td><td>380</td><td>229</td><td>60</td><td>33</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>08Y03</td><td>Albert-Einstein-Gymnasium</td><td>1041</td><td>592</td><td>449</td><td>95</td><td>49</td><td>46</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08Y04</td><td>Ernst-Abbe-Gymnasium</td><td>667</td><td>371</td><td>296</td><td>58</td><td>32</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>08Y05</td><td>Leonardo-da-Vinci-Gymnasium</td><td>740</td><td>384</td><td>356</td><td>63</td><td>42</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>08Y06</td><td>Hannah-Arendt-Gymnasium</td><td>796</td><td>422</td><td>374</td><td>62</td><td>41</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>09A07</td><td>Flatow-Oberschule</td><td>276</td><td>90</td><td>186</td><td>41</td><td>25</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09B03</td><td>Hermann-Scheer-Schule (OSZ Wirtschaft)</td><td>1564</td><td>874</td><td>690</td><td>76</td><td>49</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G01</td><td>Bouché-Schule (Grundschule)</td><td>656</td><td>332</td><td>324</td><td>43</td><td>34</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G03</td><td>Schule am Heidekampgraben (Grundschule)</td><td>534</td><td>271</td><td>263</td><td>43</td><td>31</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G04</td><td>Sonnenblumen-Schule (Grundschule)</td><td>423</td><td>209</td><td>214</td><td>28</td><td>23</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G05</td><td>Schule am Ginkobaum (Grundschule)</td><td>694</td><td>344</td><td>350</td><td>43</td><td>33</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G06</td><td>Melli-Beese-Schule (Grundschule)</td><td>501</td><td>243</td><td>258</td><td>36</td><td>27</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G07</td><td>Schule an der alten Feuerwache (Grundschule)</td><td>682</td><td>339</td><td>343</td><td>52</td><td>44</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G09</td><td>Heide-Schule (Grundschule)</td><td>542</td><td>261</td><td>281</td><td>46</td><td>40</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G10</td><td>Schule am Berg (Grundschule)</td><td>653</td><td>342</td><td>311</td><td>41</td><td>37</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G11</td><td>Schule am Pegasuseck (Grundschule)</td><td>545</td><td>269</td><td>276</td><td>39</td><td>29</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G13</td><td>Schule am Altglienicker Wasserturm (Grundschule)</td><td>516</td><td>267</td><td>249</td><td>34</td><td>25</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G14</td><td>Schule am Buntzelberg (Grundschule)</td><td>695</td><td>349</td><td>346</td><td>46</td><td>37</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G15</td><td>Schule am Mohnweg (Grundschule)</td><td>689</td><td>339</td><td>350</td><td>44</td><td>34</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G16</td><td>Wendenschloß-Schule (Grundschule)</td><td>481</td><td>218</td><td>263</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G17</td><td>Uhlenhorst-Grundschule</td><td>583</td><td>267</td><td>316</td><td>40</td><td>34</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G18</td><td>Schule in der Köllnischen Vorstadt (Grundschule)</td><td>478</td><td>221</td><td>257</td><td>43</td><td>33</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G19</td><td>Amtsfeld-Schule (Grundschule)</td><td>573</td><td>282</td><td>291</td><td>39</td><td>34</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G20</td><td>Müggelheimer Schule (Grundschule)</td><td>414</td><td>194</td><td>220</td><td>25</td><td>20</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G21</td><td>Edison-Grundschule</td><td>448</td><td>225</td><td>223</td><td>57</td><td>49</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G22</td><td>Schule an der Wuhlheide (Grundschule)</td><td>615</td><td>313</td><td>302</td><td>49</td><td>37</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G23</td><td>Hauptmann-von-Köpenick-Schule (Grundschule)</td><td>517</td><td>257</td><td>260</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G24</td><td>Müggelsee-Schule (Grundschule)</td><td>439</td><td>234</td><td>205</td><td>29</td><td>27</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G25</td><td>Müggelschlößchen-Schule (Grundschule)</td><td>385</td><td>210</td><td>175</td><td>26</td><td>24</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G26</td><td>Schule an den Püttbergen (Grundschule)</td><td>623</td><td>290</td><td>333</td><td>38</td><td>32</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G27</td><td>Friedrichshagener Schule (Grundschule)</td><td>411</td><td>201</td><td>210</td><td>32</td><td>28</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G29</td><td>Schmöckwitzer Insel-Schule (Grundschule)</td><td>261</td><td>122</td><td>139</td><td>17</td><td>14</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G30</td><td>Kiefholz-Grundschule</td><td>392</td><td>181</td><td>211</td><td>28</td><td>22</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>09G31</td><td>Wildbienen-Grundschule</td><td>371</td><td>190</td><td>181</td><td>25</td><td>21</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09G32</td><td>32. Schule (Grundschule)</td><td>62</td><td>27</td><td>35</td><td>7</td><td>6</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>09K01</td><td>Merian-Schule (Integrierte Sekundarschule)</td><td>1027</td><td>497</td><td>530</td><td>93</td><td>51</td><td>42</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09K02</td><td>Anna-Seghers-Schule (Gemeinschaftsschule)</td><td>1366</td><td>715</td><td>651</td><td>103</td><td>78</td><td>25</td>
+	</tr><tr>
+		<td>2024/25</td><td>09K03</td><td>Fritz-Kühn-Schule (Integrierte Sekundarschule)</td><td>496</td><td>224</td><td>272</td><td>44</td><td>18</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09K04</td><td>Isaac-Newton-Schule (Integrierte Sekundarschule)</td><td>463</td><td>223</td><td>240</td><td>43</td><td>27</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>09K05</td><td>Wilhelm-Bölsche-Schule (Integrierte Sekundarschule)</td><td>571</td><td>253</td><td>318</td><td>45</td><td>28</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09K06</td><td>Hans-Grade-Schule (Integrierte Sekundarschule)</td><td>445</td><td>183</td><td>262</td><td>37</td><td>23</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>09K07</td><td>Sophie-Brahe-Gemeinschaftsschule</td><td>1163</td><td>564</td><td>599</td><td>97</td><td>54</td><td>43</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09K08</td><td>Schule an der Dahme (Integrierte Sekundarschule)</td><td>635</td><td>323</td><td>312</td><td>53</td><td>34</td><td>19</td>
+	</tr><tr>
+		<td>2024/25</td><td>09K09</td><td>Grünauer Gemeinschaftsschule</td><td>1168</td><td>582</td><td>586</td><td>95</td><td>69</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P01</td><td>Freie Waldorfschule Berlin-Südost</td><td>394</td><td>218</td><td>176</td><td>38</td><td>28</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P05</td><td>	Grone - Bildungszentren Berlin GmbH - gemeinnützig</td><td>25</td><td>18</td><td>7</td><td>12</td><td>8</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P06</td><td>Montessori Campus Berlin Köpenick (Gemeinschaftsschule)</td><td>347</td><td>177</td><td>170</td><td>32</td><td>23</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P07</td><td>Evangelische Schule Köpenick (Gymnasium)</td><td>611</td><td>364</td><td>247</td><td>65</td><td>39</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P09</td><td>BEST-Sabel-Oberschule</td><td>423</td><td>198</td><td>225</td><td>58</td><td>31</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P10</td><td>Bewegte Schule Köpenick (Grundschule)</td><td>74</td><td>31</td><td>43</td><td>12</td><td>10</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P11</td><td>Berufsbildungszentrum Chemie</td><td>18</td><td>2</td><td>16</td><td>11</td><td>3</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P12</td><td>Mosaik-Grundschule</td><td>140</td><td>54</td><td>86</td><td>10</td><td>8</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P13</td><td>Evangelische Grundschule Friedrichshagen</td><td>251</td><td>120</td><td>131</td><td>18</td><td>16</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P15</td><td>W-I-R-Grundschule Pfefferwerk</td><td>144</td><td>71</td><td>73</td><td>12</td><td>10</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P16</td><td>KreativitätsGrundschule Berlin Treptow</td><td>180</td><td>88</td><td>92</td><td>24</td><td>13</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P18</td><td>Freie Interkulturelle Waldorfschule Berlin</td><td>276</td><td>145</td><td>131</td><td>32</td><td>21</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P20</td><td>Elisabeth-Schulen</td><td>405</td><td>265</td><td>140</td><td>35</td><td>27</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>09P21</td><td>NEWSchool (Integrierte Sekundarschule) (KEIN Schulbetrieb)</td><td>0</td><td>0</td><td>0</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09P22</td><td>BEST-Sabel Berufsakademie</td><td>16</td><td>10</td><td>6</td><td>7</td><td>3</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>09S03</td><td>Albatros-Schule</td><td>159</td><td>55</td><td>104</td><td>35</td><td>26</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09S04</td><td>Ahorn-Schule</td><td>175</td><td>51</td><td>124</td><td>31</td><td>30</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>09S06</td><td>Schule am Wildgarten</td><td>178</td><td>71</td><td>107</td><td>27</td><td>21</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09Y03</td><td>Archenhold-Gymnasium</td><td>741</td><td>350</td><td>391</td><td>63</td><td>37</td><td>26</td>
+	</tr><tr>
+		<td>2024/25</td><td>09Y04</td><td>Anne-Frank-Gymnasium</td><td>907</td><td>451</td><td>456</td><td>75</td><td>42</td><td>33</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09Y05</td><td>Alexander-von-Humboldt-Gymnasium</td><td>805</td><td>402</td><td>403</td><td>63</td><td>38</td><td>25</td>
+	</tr><tr>
+		<td>2024/25</td><td>09Y06</td><td>Gerhart-Hauptmann-Gymnasium</td><td>819</td><td>475</td><td>344</td><td>63</td><td>45</td><td>18</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09Y10</td><td>Gebrüder-Montgolfier-Gymnasium</td><td>962</td><td>565</td><td>397</td><td>79</td><td>46</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>09Y11</td><td>Emmy-Noether-Gymnasium</td><td>824</td><td>402</td><td>422</td><td>71</td><td>50</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>09Y12</td><td>12. Schule (Gymnasium)</td><td>130</td><td>54</td><td>76</td><td>3</td><td>1</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>10B01</td><td>Oscar-Tietz-Schule (OSZ Handel II)</td><td>1677</td><td>669</td><td>1008</td><td>70</td><td>53</td><td>17</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10B02</td><td>Rahel-Hirsch-Schule (OSZ Gesundheit/Medizin)</td><td>2254</td><td>1962</td><td>292</td><td>86</td><td>63</td><td>23</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G01</td><td>Paavo-Nurmi-Grundschule</td><td>403</td><td>191</td><td>212</td><td>31</td><td>22</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G03</td><td>Selma-Lagerlöf-Grundschule</td><td>439</td><td>214</td><td>225</td><td>39</td><td>29</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G04</td><td>Falken-Grundschule</td><td>343</td><td>180</td><td>163</td><td>28</td><td>20</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G05</td><td>Ebereschen-Grundschule</td><td>288</td><td>142</td><td>146</td><td>29</td><td>25</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G07</td><td>Karl-Friedrich-Friesen-Grundschule</td><td>534</td><td>263</td><td>271</td><td>38</td><td>31</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G08</td><td>Wilhelm-Busch-Grundschule</td><td>571</td><td>283</td><td>288</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G09</td><td>Grundschule am Bürgerpark</td><td>763</td><td>354</td><td>409</td><td>56</td><td>37</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G10</td><td>Peter-Pan-Grundschule</td><td>520</td><td>253</td><td>267</td><td>48</td><td>42</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G11</td><td>Grundschule an der Mühle</td><td>528</td><td>242</td><td>286</td><td>33</td><td>26</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G12</td><td>Grundschule an der Geißenweide</td><td>486</td><td>242</td><td>244</td><td>34</td><td>27</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G13</td><td>Johann-Strauss-Grundschule</td><td>688</td><td>335</td><td>353</td><td>57</td><td>50</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G14</td><td>Grundschule unter dem Regenbogen</td><td>830</td><td>373</td><td>457</td><td>71</td><td>54</td><td>17</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G16</td><td>Fuchsberg-Grundschule</td><td>754</td><td>382</td><td>372</td><td>56</td><td>48</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G17</td><td>Beatrix-Potter-Grundschule</td><td>666</td><td>321</td><td>345</td><td>45</td><td>35</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G18</td><td>Pusteblume-Grundschule</td><td>781</td><td>361</td><td>420</td><td>60</td><td>44</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G19</td><td>Bücherwurm-Schule am Weiher (Grundschule)</td><td>682</td><td>307</td><td>375</td><td>47</td><td>37</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G22</td><td>Kolibri-Grundschule</td><td>842</td><td>420</td><td>422</td><td>56</td><td>48</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G25</td><td>Grundschule am Schleipfuhl</td><td>721</td><td>355</td><td>366</td><td>50</td><td>38</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G26</td><td>Friedrich-Schiller-Grundschule</td><td>407</td><td>193</td><td>214</td><td>28</td><td>26</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G28</td><td>Grundschule am Hollerbusch</td><td>776</td><td>380</td><td>396</td><td>55</td><td>45</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G29</td><td>Grundschule an der Wuhle</td><td>679</td><td>325</td><td>354</td><td>44</td><td>36</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G30</td><td>Mahlsdorfer Grundschule</td><td>552</td><td>262</td><td>290</td><td>40</td><td>34</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G31</td><td>Franz-Carl-Achard-Grundschule</td><td>440</td><td>210</td><td>230</td><td>35</td><td>30</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G32</td><td>Kiekemal-Schule (Grundschule)</td><td>657</td><td>323</td><td>334</td><td>45</td><td>41</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G33</td><td>Ulmen-Grundschule</td><td>614</td><td>316</td><td>298</td><td>41</td><td>33</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G34</td><td>Schule am grünen Stadtrand (Grundschule)</td><td>271</td><td>136</td><td>135</td><td>18</td><td>11</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>10G36</td><td>36. Schule (Grundschule)</td><td>474</td><td>233</td><td>241</td><td>38</td><td>30</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10G37</td><td>37. Schule (Grundschule)</td><td>57</td><td>28</td><td>29</td><td>9</td><td>7</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K01</td><td>Rudolf-Virchow-Schule</td><td>1198</td><td>591</td><td>607</td><td>108</td><td>68</td><td>40</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K02</td><td>Ernst-Haeckel-Schule</td><td>922</td><td>442</td><td>480</td><td>74</td><td>46</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K03</td><td>Kerschensteiner-Schule</td><td>322</td><td>119</td><td>203</td><td>27</td><td>17</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K05</td><td>Jean-Piaget-Schule</td><td>522</td><td>225</td><td>297</td><td>48</td><td>32</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K06</td><td>Georg-Klingenberg-Schule</td><td>600</td><td>237</td><td>363</td><td>57</td><td>32</td><td>25</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K07</td><td>Caspar-David-Friedrich-Schule</td><td>482</td><td>304</td><td>178</td><td>46</td><td>32</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K08</td><td>Johann-Julius-Hecker-Schule</td><td>576</td><td>238</td><td>338</td><td>40</td><td>21</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K09</td><td>Konrad-Wachsmann-Schule</td><td>549</td><td>218</td><td>331</td><td>51</td><td>35</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K10</td><td>Wolfgang-Amadeus-Mozart-Schule (Gemeinschaftsschule)</td><td>1185</td><td>552</td><td>633</td><td>100</td><td>60</td><td>40</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K11</td><td>Marcana-Schule (Gemeinschaftsschule)</td><td>701</td><td>328</td><td>373</td><td>55</td><td>34</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K12</td><td>Gretel-Bergmann-Gemeinschaftsschule</td><td>1197</td><td>558</td><td>639</td><td>99</td><td>72</td><td>27</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10K13</td><td>13. Schule (Integrierte Sekundarschule)</td><td>620</td><td>290</td><td>330</td><td>61</td><td>37</td><td>24</td>
+	</tr><tr>
+		<td>2024/25</td><td>10K14</td><td>14. Schule (Gemeinschaftsschule)</td><td>92</td><td>50</td><td>42</td><td>8</td><td>5</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P03</td><td>Gesellschaft für Pflege- und Sozialberufe gGmbH</td><td>225</td><td>176</td><td>49</td><td>23</td><td>16</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P05</td><td>BEST-Sabel-Grundschule Mahlsdorf</td><td>364</td><td>162</td><td>202</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P09</td><td>Sabine-Ball-Grundschule</td><td>249</td><td>150</td><td>99</td><td>19</td><td>14</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P10</td><td>Internationale Lomonossow-Schule Berlin Marzahn (Gemeinschaftsschule)</td><td>484</td><td>246</td><td>238</td><td>58</td><td>46</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P12</td><td>Freie Schule Berlin Mahlsdorf</td><td>177</td><td>88</td><td>89</td><td>21</td><td>11</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P13</td><td>BEST-Sabel-Grundschule Kaulsdorf</td><td>373</td><td>188</td><td>185</td><td>24</td><td>17</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P14</td><td>dreieins-Grundschule Berlin Kaulsdorf</td><td>192</td><td>102</td><td>90</td><td>16</td><td>12</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P19</td><td>DRK - Schule für soziale Berufe Berlin gGmbH</td><td>224</td><td>145</td><td>79</td><td>19</td><td>12</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P20</td><td>Chance Bildung, Jugend und Sport BJS gGmbH</td><td>82</td><td>66</td><td>16</td><td>10</td><td>7</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P21</td><td>D&B Dienstleistung und Bildung gGmbH</td><td>376</td><td>306</td><td>70</td><td>37</td><td>30</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P22</td><td>MANEGE gGmbH</td><td>66</td><td>23</td><td>43</td><td>11</td><td>4</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>10P24</td><td>Freie Grundschule Marzahn</td><td>104</td><td>54</td><td>50</td><td>9</td><td>8</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10P25</td><td>miwa DEMOKRATISCHE SCHULE</td><td>27</td><td>10</td><td>17</td><td>2</td><td>1</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>10S04</td><td>Schule am Pappelhof</td><td>166</td><td>60</td><td>106</td><td>34</td><td>28</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10S07</td><td>Schule am Rosenhain</td><td>310</td><td>113</td><td>197</td><td>54</td><td>39</td><td>15</td>
+	</tr><tr>
+		<td>2024/25</td><td>10S08</td><td>Schule am Mummelsoll</td><td>154</td><td>48</td><td>106</td><td>36</td><td>32</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10Y01</td><td>Tagore-Gymnasium</td><td>915</td><td>541</td><td>374</td><td>78</td><td>45</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>10Y02</td><td>Otto-Nagel-Gymnasium</td><td>948</td><td>519</td><td>429</td><td>77</td><td>40</td><td>37</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10Y03</td><td>Wilhelm-von-Siemens-Gymnasium</td><td>895</td><td>441</td><td>454</td><td>74</td><td>47</td><td>27</td>
+	</tr><tr>
+		<td>2024/25</td><td>10Y08</td><td>Sartre-Gymnasium</td><td>902</td><td>484</td><td>418</td><td>72</td><td>42</td><td>30</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>10Y11</td><td>Melanchthon-Gymnasium</td><td>1101</td><td>601</td><td>500</td><td>84</td><td>51</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>10Y12</td><td>12. Schule (Gymnasium)</td><td>125</td><td>63</td><td>62</td><td>2</td><td>1</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11A07</td><td>Schul- und Leistungssportzentrum Berlin (Sportforum)</td><td>962</td><td>323</td><td>639</td><td>125</td><td>73</td><td>52</td>
+	</tr><tr>
+		<td>2024/25</td><td>11B01</td><td>Hein-Moeller-Schule (OSZ Energietechnik II)</td><td>1558</td><td>46</td><td>1512</td><td>68</td><td>15</td><td>53</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11B02</td><td>Max-Taut-Schule (OSZ Gebäude, Umwelt, Technik)</td><td>2438</td><td>178</td><td>2260</td><td>99</td><td>28</td><td>71</td>
+	</tr><tr>
+		<td>2024/25</td><td>11B04</td><td>Friedrich-List-Schule (OSZ Büromanagement und Wirtschaftssprachen)</td><td>1298</td><td>816</td><td>482</td><td>65</td><td>42</td><td>23</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G01</td><td>Sonnenuhr-Schule (Grundschule)</td><td>390</td><td>181</td><td>209</td><td>27</td><td>19</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G02</td><td>Schule am Roederplatz (Grundschule)</td><td>438</td><td>218</td><td>220</td><td>32</td><td>23</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G03</td><td>Schule im Gutspark (Grundschule)</td><td>413</td><td>184</td><td>229</td><td>29</td><td>26</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G05</td><td>Schule auf dem lichten Berg (Grundschule)</td><td>664</td><td>316</td><td>348</td><td>49</td><td>42</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G06</td><td>Adam-Ries-Schule (Grundschule)</td><td>520</td><td>240</td><td>280</td><td>38</td><td>32</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G07</td><td>Hermann-Gmeiner-Schule (Grundschule)</td><td>528</td><td>228</td><td>300</td><td>40</td><td>30</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G08</td><td>Robinson-Schule (Grundschule)</td><td>352</td><td>156</td><td>196</td><td>28</td><td>18</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G09</td><td>Bürgermeister-Ziethen-Schule (Grundschule)</td><td>686</td><td>364</td><td>322</td><td>50</td><td>34</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G10</td><td>Schule im Ostseekarree (Grundschule)</td><td>558</td><td>272</td><td>286</td><td>38</td><td>27</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G11</td><td>Bernhard-Grzimek-Schule (Grundschule)</td><td>482</td><td>228</td><td>254</td><td>43</td><td>30</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G12</td><td>Lew-Tolstoi-Schule (Grundschule)</td><td>657</td><td>342</td><td>315</td><td>54</td><td>46</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G13</td><td>Karlshorster Schule (Grundschule)</td><td>647</td><td>299</td><td>348</td><td>44</td><td>36</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G14</td><td>Richard-Wagner-Schule (Grundschule)</td><td>548</td><td>269</td><td>279</td><td>48</td><td>40</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G16</td><td>Schule an der Victoriastadt (Grundschule)</td><td>688</td><td>328</td><td>360</td><td>48</td><td>39</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G17</td><td>Brodowin-Schule (Grundschule)</td><td>688</td><td>343</td><td>345</td><td>57</td><td>51</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G18</td><td>Schule am Wilhelmsberg (Grundschule)</td><td>724</td><td>351</td><td>373</td><td>64</td><td>48</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G19</td><td>Obersee-Schule (Grundschule)</td><td>391</td><td>191</td><td>200</td><td>29</td><td>24</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G21</td><td>Schule Am Faulen See (Grundschule)</td><td>412</td><td>189</td><td>223</td><td>31</td><td>21</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G22</td><td>Martin-Niemöller-Grundschule</td><td>564</td><td>278</td><td>286</td><td>44</td><td>34</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G23</td><td>Friedrichsfelder Schule (Grundschule)</td><td>444</td><td>220</td><td>224</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G25</td><td>Schule am Wäldchen (Grundschule)</td><td>501</td><td>288</td><td>213</td><td>34</td><td>29</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G26</td><td>Randow-Schule (Grundschule)</td><td>433</td><td>217</td><td>216</td><td>32</td><td>27</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G28</td><td>Feldmark-Schule (Grundschule)</td><td>668</td><td>340</td><td>328</td><td>45</td><td>27</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G29</td><td>Matibi-Schule (Grundschule)</td><td>782</td><td>403</td><td>379</td><td>51</td><td>38</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G31</td><td>Schmetterlings-Grundschule</td><td>378</td><td>181</td><td>197</td><td>27</td><td>22</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G32</td><td>Hans-Rosenthal-Grundschule</td><td>496</td><td>246</td><td>250</td><td>39</td><td>26</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G33</td><td>Gerda-Lagerlöf-Grundschule</td><td>201</td><td>104</td><td>97</td><td>14</td><td>10</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G34</td><td>Orankesee Schule (Grundschule)</td><td>573</td><td>292</td><td>281</td><td>38</td><td>31</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G35</td><td>Grundschule am Tränkegraben</td><td>530</td><td>230</td><td>300</td><td>35</td><td>26</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G36</td><td>Phönix-Grundschule  </td><td>416</td><td>212</td><td>204</td><td>23</td><td>18</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G37</td><td>Seepark-Grundschule</td><td>309</td><td>160</td><td>149</td><td>25</td><td>23</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>11G38</td><td>38. Schule (Grundschule) </td><td>256</td><td>128</td><td>128</td><td>21</td><td>17</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11G39</td><td>39. Schule (Grundschule)</td><td>180</td><td>83</td><td>97</td><td>18</td><td>15</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K01</td><td>Alexander-Puschkin-Schule</td><td>440</td><td>242</td><td>198</td><td>42</td><td>29</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K02</td><td>Mildred-Harnack-Schule</td><td>884</td><td>438</td><td>446</td><td>75</td><td>47</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K04</td><td>Gutenberg-Schule</td><td>1003</td><td>543</td><td>460</td><td>85</td><td>57</td><td>28</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K05</td><td>Fritz-Reuter-Schule</td><td>866</td><td>406</td><td>460</td><td>73</td><td>40</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K06</td><td>Schule am Rathaus</td><td>396</td><td>190</td><td>206</td><td>39</td><td>27</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K07</td><td>Vincent-van-Gogh-Schule (Integrierte Sekundarschule)</td><td>768</td><td>358</td><td>410</td><td>75</td><td>42</td><td>33</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K08</td><td>Schule-am-Tierpark (Integrierte Sekundarschule)</td><td>777</td><td>364</td><td>413</td><td>71</td><td>40</td><td>31</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K09</td><td>Philipp-Reis-Schule (Integrierte Sekundarschule)</td><td>694</td><td>318</td><td>376</td><td>55</td><td>33</td><td>22</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K10</td><td>Grüner Campus Malchow (Gemeinschaftsschule)</td><td>1764</td><td>850</td><td>914</td><td>160</td><td>108</td><td>52</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K11</td><td>Paul-Schmidt-Schule (Integrierte Sekundarschule)</td><td>600</td><td>252</td><td>348</td><td>57</td><td>39</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K12</td><td>Paul-und-Charlotte-Kniese-Schule (Gemeinschaftsschule)</td><td>986</td><td>444</td><td>542</td><td>88</td><td>59</td><td>29</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K13</td><td>13. Schule (Integrierte Sekundarschule)</td><td>369</td><td>176</td><td>193</td><td>36</td><td>17</td><td>19</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K14</td><td>14. Schule (Integrierte Sekundarschule)</td><td>482</td><td>230</td><td>252</td><td>33</td><td>22</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11K15</td><td>15. Schule (Integrierte Sekundarschule)</td><td>227</td><td>107</td><td>120</td><td>22</td><td>11</td><td>11</td>
+	</tr><tr>
+		<td>2024/25</td><td>11K16</td><td>16. Schule (Integrierte Sekundarschule)</td><td>115</td><td>48</td><td>67</td><td>5</td><td>4</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11P01</td><td>Katholische Schule Sankt Mauritius (Grundschule)</td><td>154</td><td>74</td><td>80</td><td>13</td><td>10</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>11P02</td><td>bbw Akademie für Betriebswirtschaftliche Weiterbildung GmbH</td><td>234</td><td>154</td><td>80</td><td>22</td><td>15</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11P03</td><td>Evangelische Schule Lichtenberg (Grundschule)</td><td>278</td><td>145</td><td>133</td><td>22</td><td>18</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>11P04</td><td>KreativitätsGrundschule Berlin Lichtenberg</td><td>341</td><td>170</td><td>171</td><td>35</td><td>30</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11P14</td><td>Schulen der BAWI gGmbH</td><td>133</td><td>89</td><td>44</td><td>24</td><td>17</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>11P15</td><td>Donner+ Kern gGmbH</td><td>151</td><td>114</td><td>37</td><td>17</td><td>11</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11P17</td><td>Pädalogik GmbH - Fachschule für Sozialpädagogik</td><td>116</td><td>82</td><td>34</td><td>11</td><td>9</td><td>2</td>
+	</tr><tr>
+		<td>2024/25</td><td>11P18</td><td>Akademie für berufliche Bildung (AFBB) gGmbH</td><td>590</td><td>211</td><td>379</td><td>38</td><td>19</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11P19</td><td>Semper Schulen Berlin gGmbH</td><td>186</td><td>146</td><td>40</td><td>21</td><td>9</td><td>12</td>
+	</tr><tr>
+		<td>2024/25</td><td>11P21</td><td>Grundschule am Campus Hedwig</td><td>35</td><td>12</td><td>23</td><td>4</td><td>1</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11S02</td><td>Schule am Fennpfuhl</td><td>127</td><td>47</td><td>80</td><td>25</td><td>24</td><td>1</td>
+	</tr><tr>
+		<td>2024/25</td><td>11S04</td><td>Paul-und-Charlotte-Kniese-Schule</td><td>64</td><td>24</td><td>40</td><td>14</td><td>12</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11S05</td><td>Schule am grünen Grund</td><td>95</td><td>48</td><td>47</td><td>22</td><td>15</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>11S06</td><td>Selma-Lagerlöf-Schule</td><td>183</td><td>54</td><td>129</td><td>24</td><td>23</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11S07</td><td>Carl-von-Linné-Schule</td><td>298</td><td>126</td><td>172</td><td>72</td><td>58</td><td>14</td>
+	</tr><tr>
+		<td>2024/25</td><td>11S08</td><td>Schule Am Breiten Luch</td><td>210</td><td>84</td><td>126</td><td>32</td><td>19</td><td>13</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11S12</td><td>Nils-Holgersson-Schule</td><td>210</td><td>63</td><td>147</td><td>43</td><td>33</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>11Y02</td><td>Johann-Gottfried-Herder-Gymnasium</td><td>999</td><td>650</td><td>349</td><td>87</td><td>56</td><td>31</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11Y05</td><td>Hans-und-Hilde-Coppi-Gymnasium</td><td>742</td><td>419</td><td>323</td><td>74</td><td>46</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>11Y09</td><td>Barnim-Gymnasium</td><td>1235</td><td>710</td><td>525</td><td>101</td><td>71</td><td>30</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11Y10</td><td>Manfred-von-Ardenne-Gymnasium</td><td>849</td><td>461</td><td>388</td><td>71</td><td>40</td><td>31</td>
+	</tr><tr>
+		<td>2024/25</td><td>11Y11</td><td>Immanuel-Kant-Gymnasium</td><td>901</td><td>375</td><td>526</td><td>82</td><td>48</td><td>34</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>11Y12</td><td>12. Schule (Gymnasium)</td><td>152</td><td>73</td><td>79</td><td>13</td><td>3</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>12A44</td><td>Willkommensschule TXL</td><td>417</td><td>205</td><td>212</td><td>53</td><td>39</td><td>14</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12B01</td><td>Georg-Schlesinger-Schule (OSZ Maschinen- und Fertigungstechnik)</td><td>1691</td><td>148</td><td>1543</td><td>70</td><td>23</td><td>47</td>
+	</tr><tr>
+		<td>2024/25</td><td>12B02</td><td>Emil-Fischer-Schule (OSZ Ernährung und Lebensmitteltechnik)</td><td>1483</td><td>757</td><td>726</td><td>109</td><td>69</td><td>40</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12B03</td><td>Ernst-Litfaß-Schule (OSZ Mediengestaltung und Medientechnologie)</td><td>880</td><td>356</td><td>524</td><td>68</td><td>31</td><td>37</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G01</td><td>Havelmüller-Grundschule</td><td>353</td><td>175</td><td>178</td><td>29</td><td>25</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G02</td><td>Grundschule am Schäfersee</td><td>469</td><td>217</td><td>252</td><td>45</td><td>36</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G03</td><td>Reginhard-Grundschule</td><td>414</td><td>203</td><td>211</td><td>28</td><td>20</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G04</td><td>Till-Eulenspiegel-Grundschule</td><td>548</td><td>278</td><td>270</td><td>36</td><td>26</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G05</td><td>Kolumbus-Grundschule</td><td>687</td><td>338</td><td>349</td><td>51</td><td>42</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G06</td><td>Hausotter-Grundschule</td><td>566</td><td>276</td><td>290</td><td>43</td><td>37</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G07</td><td>Mark-Twain-Grundschule</td><td>548</td><td>263</td><td>285</td><td>42</td><td>35</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G09</td><td>Grundschule an der Peckwisch</td><td>577</td><td>297</td><td>280</td><td>51</td><td>43</td><td>8</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G10</td><td>Peter-Witte-Grundschule</td><td>412</td><td>180</td><td>232</td><td>31</td><td>22</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G11</td><td>Ringelnatz-Grundschule</td><td>386</td><td>193</td><td>193</td><td>31</td><td>24</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G12</td><td>Borsigwalder Grundschule</td><td>535</td><td>230</td><td>305</td><td>35</td><td>28</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G13</td><td>Franz-Marc-Grundschule</td><td>414</td><td>208</td><td>206</td><td>38</td><td>34</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G14</td><td>Alfred-Brehm-Grundschule</td><td>416</td><td>206</td><td>210</td><td>30</td><td>25</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G15</td><td>Hoffmann-von-Fallersleben-Grundschule</td><td>459</td><td>217</td><td>242</td><td>37</td><td>34</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G17</td><td>Ellef-Ringnes-Grundschule</td><td>396</td><td>198</td><td>198</td><td>27</td><td>23</td><td>4</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G18</td><td>Grundschule am Tegelschen Ort</td><td>395</td><td>184</td><td>211</td><td>28</td><td>21</td><td>7</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G19</td><td>Münchhausen-Grundschule</td><td>439</td><td>209</td><td>230</td><td>35</td><td>26</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G20</td><td>Grundschule am Vierrutenberg</td><td>472</td><td>217</td><td>255</td><td>33</td><td>27</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G21</td><td>Grundschule am Fließtal</td><td>424</td><td>212</td><td>212</td><td>37</td><td>30</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G22</td><td>Gustav-Dreyer-Grundschule</td><td>503</td><td>254</td><td>249</td><td>33</td><td>28</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G23</td><td>Victor-Gollancz-Grundschule</td><td>491</td><td>227</td><td>264</td><td>42</td><td>35</td><td>7</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G24</td><td>Renée-Sintenis-Grundschule</td><td>422</td><td>209</td><td>213</td><td>29</td><td>26</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G26</td><td>Märkische Grundschule</td><td>470</td><td>227</td><td>243</td><td>43</td><td>34</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G27</td><td>Chamisso-Grundschule</td><td>509</td><td>242</td><td>267</td><td>45</td><td>40</td><td>5</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G28</td><td>Grundschule in den Rollbergen</td><td>384</td><td>187</td><td>197</td><td>39</td><td>31</td><td>8</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G29</td><td>Hermann-Schulz-Grundschule</td><td>425</td><td>189</td><td>236</td><td>38</td><td>28</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G30</td><td>Reineke-Fuchs-Grundschule</td><td>462</td><td>239</td><td>223</td><td>39</td><td>36</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G32</td><td>Charlie-Chaplin-Grundschule</td><td>436</td><td>199</td><td>237</td><td>38</td><td>29</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>12G33</td><td>Lauterbach-Grundschule</td><td>504</td><td>248</td><td>256</td><td>43</td><td>34</td><td>9</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12G34</td><td>Otfried-Preußler-Grundschule</td><td>659</td><td>300</td><td>359</td><td>55</td><td>49</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K01</td><td>Julius-Leber-Schule</td><td>409</td><td>151</td><td>258</td><td>39</td><td>27</td><td>12</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12K02</td><td>Bettina-von-Arnim-Schule</td><td>1235</td><td>727</td><td>508</td><td>135</td><td>84</td><td>51</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K03</td><td>Max-Beckmann-Schule (Integrierte Sekundarschule)</td><td>1029</td><td>574</td><td>455</td><td>99</td><td>62</td><td>37</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12K04</td><td>Paul-Löbe-Schule</td><td>609</td><td>254</td><td>355</td><td>77</td><td>49</td><td>28</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K05</td><td>Gustav-Freytag-Schule (Integrierte Sekundarschule)</td><td>458</td><td>215</td><td>243</td><td>45</td><td>26</td><td>19</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12K06</td><td>Benjamin-Franklin-Schule (Integrierte Sekundarschule)</td><td>455</td><td>199</td><td>256</td><td>48</td><td>30</td><td>18</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K07</td><td>Jean-Krämer-Schule (Integrierte Sekundarschule) Wittenau</td><td>551</td><td>234</td><td>317</td><td>60</td><td>34</td><td>26</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12K09</td><td>Carl-Benz-Schule (Integrierte Sekundarschule)</td><td>432</td><td>159</td><td>273</td><td>46</td><td>30</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K10</td><td>Carl-Bosch-Schule</td><td>407</td><td>163</td><td>244</td><td>40</td><td>22</td><td>18</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12K11</td><td>Albrecht-Haushofer-Schule</td><td>525</td><td>210</td><td>315</td><td>51</td><td>30</td><td>21</td>
+	</tr><tr>
+		<td>2024/25</td><td>12K12</td><td>Campus Hannah Höch (Gemeinschaftsschule)</td><td>703</td><td>334</td><td>369</td><td>72</td><td>51</td><td>21</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P02</td><td>Waldorfschule Märkisches Viertel Berlin</td><td>406</td><td>213</td><td>193</td><td>44</td><td>28</td><td>16</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P03</td><td>Evangelische Schule Frohnau</td><td>692</td><td>358</td><td>334</td><td>61</td><td>39</td><td>22</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P04</td><td>Katholische Schule Salvator</td><td>1154</td><td>642</td><td>512</td><td>97</td><td>67</td><td>30</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P06</td><td>Elisabethstift-Schule (Gemeinschaftsschule)</td><td>48</td><td>24</td><td>24</td><td>16</td><td>13</td><td>3</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P07</td><td>Private Goethe-Schulen</td><td>294</td><td>137</td><td>157</td><td>34</td><td>25</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P10</td><td>Demokratische Schule X (Gemeinschaftsschule)</td><td>101</td><td>48</td><td>53</td><td>9</td><td>3</td><td>6</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P11</td><td>Alternativschule Berlin (Gemeinschaftsschule)</td><td>140</td><td>72</td><td>68</td><td>16</td><td>10</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P13</td><td>Euro Akademie Berlin</td><td>336</td><td>253</td><td>83</td><td>38</td><td>28</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P14</td><td>Montessori Campus am Tegeler Forst</td><td>252</td><td>122</td><td>130</td><td>30</td><td>20</td><td>10</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P15</td><td>EJF - Fachschule für soziale Berufe</td><td>86</td><td>55</td><td>31</td><td>7</td><td>6</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P19</td><td>APEGO-Schule Berlin (Gemeinschaftsschule)</td><td>78</td><td>30</td><td>48</td><td>15</td><td>11</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P22</td><td>Mosaik Fachschule für Sozialpädagogik</td><td>64</td><td>48</td><td>16</td><td>9</td><td>7</td><td>2</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P23</td><td>Eventus - Fachschule für Sozialpädagogik</td><td>84</td><td>64</td><td>20</td><td>14</td><td>10</td><td>4</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P24</td><td>G.A.L.B Förderung gGmbH</td><td>362</td><td>264</td><td>98</td><td>33</td><td>23</td><td>10</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12P25</td><td>Elisabethstift-Schule</td><td>72</td><td>35</td><td>37</td><td>16</td><td>13</td><td>3</td>
+	</tr><tr>
+		<td>2024/25</td><td>12P26</td><td>Fachschule für Sozialpädagogik am Elisabethstift Berlin</td><td>31</td><td>22</td><td>9</td><td>4</td><td>4</td><td>0</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12S01</td><td>Stötzner-Schule</td><td>110</td><td>40</td><td>70</td><td>22</td><td>16</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12S02</td><td>Schule am Tegeler Forst</td><td>63</td><td>18</td><td>45</td><td>15</td><td>14</td><td>1</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12S03</td><td>Lauterbach-Schule</td><td>113</td><td>40</td><td>73</td><td>26</td><td>20</td><td>6</td>
+	</tr><tr>
+		<td>2024/25</td><td>12S04</td><td>Schule am Park</td><td>195</td><td>90</td><td>105</td><td>39</td><td>34</td><td>5</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12S05</td><td>Waldseeschule</td><td>122</td><td>26</td><td>96</td><td>29</td><td>20</td><td>9</td>
+	</tr><tr>
+		<td>2024/25</td><td>12S06</td><td>Toulouse-Lautrec-Schule</td><td>159</td><td>48</td><td>111</td><td>43</td><td>32</td><td>11</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12Y01</td><td>Friedrich-Engels-Gymnasium</td><td>918</td><td>503</td><td>415</td><td>83</td><td>47</td><td>36</td>
+	</tr><tr>
+		<td>2024/25</td><td>12Y02</td><td>Europäisches Gymnasium Bertha-von-Suttner</td><td>1206</td><td>674</td><td>532</td><td>95</td><td>65</td><td>30</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12Y03</td><td>Humboldt-Gymnasium</td><td>1123</td><td>497</td><td>626</td><td>114</td><td>60</td><td>54</td>
+	</tr><tr>
+		<td>2024/25</td><td>12Y04</td><td>Gabriele-von-Bülow-Gymnasium</td><td>946</td><td>512</td><td>434</td><td>80</td><td>55</td><td>25</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12Y05</td><td>Georg-Herwegh-Gymnasium</td><td>925</td><td>466</td><td>459</td><td>81</td><td>52</td><td>29</td>
+	</tr><tr>
+		<td>2024/25</td><td>12Y06</td><td>Schulfarm Insel Scharfenberg</td><td>422</td><td>216</td><td>206</td><td>44</td><td>28</td><td>16</td>
+	</tr><tr style="background-color:#CCCCCC;">
+		<td>2024/25</td><td>12Y07</td><td>Romain-Rolland-Gymnasium</td><td>1109</td><td>576</td><td>533</td><td>90</td><td>53</td><td>37</td>
+	</tr><tr>
+		<td>2024/25</td><td>12Y08</td><td>Thomas-Mann-Gymnasium</td><td>929</td><td>500</td><td>429</td><td>79</td><td>36</td><td>43</td>
+	</tr>
+</table>
