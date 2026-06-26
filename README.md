@@ -131,3 +131,12 @@ One of the biggest challenges of this project was integrating multiple independe
 * **Frontend Framework:** Streamlit (user interface, responsive layouts, and interactive widgets)
 * **Parsing Libraries:** `lxml` (HTML parsing), `xlrd`, and `openpyxl` (processing legacy and modern Excel files)
 
+# Quellen / Sources
+
+This project is built entirely on official, publicly available civic data provided by the State of Berlin via the Berlin Open Data Portal (`daten.berlin.de`).
+
+Senatsverwaltung für Bildung, Jugend und Familie (2025): Schulen im Startchancen-Programm. Berlin Open Data. Verfügbar unter: https://daten.berlin.de/datensaetze/schulen-im-starchancen-programm-1570794 (Zugriff: 25.06.2026).
+
+Senatsverwaltung für Bildung, Jugend und Familie (2024): Schulen in Berlin. Berlin Open Data. Verfügbar unter: https://daten.berlin.de/datensaetze/schulen-in-berlin-1096779 (Zugriff: 25.06.2026).
+
+Note: All data used is published under open-government licenses (dl-de-zero-2.0 / CC-BY) allowing public modification and processing.
