@@ -9,6 +9,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+import streamlit.components.v1 as components
 
 # ── Seitenkonfiguration ──────────────────────────────────────────────────────
 
@@ -17,6 +18,13 @@ st.set_page_config(
     page_icon="🏫",
     layout="wide",
     initial_sidebar_state="expanded",
+)
+
+# ── Umami Analytics ───────────────────────────────────────────────────────
+components.html(
+    '<script defer src="https://cloud.umami.is/script.js" data-website-id="39ff36d2-fd29-4bef-9a48-6c44955c32cb"></script>',
+    height=0,
+    width=0,
 )
 
 # ── Styling ──────────────────────────────────────────────────────────────────
