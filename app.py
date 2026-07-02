@@ -76,6 +76,7 @@ def load_data():
             )
 
     startchancen["Schulnummer"] = startchancen["Schulnummer"].astype(str).str.strip().str.upper()
+    startchancen["Schulart"] = startchancen["Schulart"].astype(str).str.strip()
 
     statistik = pd.read_html("Tab.xls", encoding="latin1", header=0)[0]
     statistik.columns = [
